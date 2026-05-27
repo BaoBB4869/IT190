@@ -1,6 +1,9 @@
 import customtkinter as ctk
 import tkintermapview as tkmv
 import osmnx as ox
+from scipy._lib.cobyqa.subsolvers import geometry
+from shapely import coordinates
+
 import func as f
 import math
 
@@ -121,6 +124,25 @@ class BerlinMapUI(ctk.CTk):
         self.map_widget.grid(row=0, column=0, sticky="nsew")
         self.map_widget.set_position(52.520, 13.405); self.map_widget.set_zoom(13)
 
+    def _build_path_coordinates(self, path_nodes):
+        coordinates = []
+        for i in range(len(path_nodes)-1):
+            u, v = path_nodes[i], path_nodes[i+1]
+
+            if not coordinates:
+                coordinates.append((self.G.nodes[u]["y"], self.G.nodes[u]["x"]))
+
+            edge_data = self.G[u][v][0] if v in self.G[u] else {}
+            if 'geometry' in edge_data:
+                geom_coords = list(edge_data['geometry'].coords)
+                # for lon, lat in geom_coords[1:]:
+                for lat, lon in geom_coords[1:]:
+                    coordinates.append([lon, lat])
+                else:
+                    coordinates.append((self.G.nodes[v]["y"], self.G.nodes[v]["x"]))
+        return coordinates
+
+
     def _on_find(self):
         self._clear_map_elements()
         start_station = self.cb_start.get()
@@ -167,7 +189,7 @@ class BerlinMapUI(ctk.CTk):
                 
             self.lbl_result.configure(text=f"✅ Tìm đường thành công!\n🤖 Thuật toán: {selected_algo}\n{cost_text}\n🚉 Đi qua: {len(path_nodes)} nodes.", text_color="green")
 
-            coordinates = [(self.G.nodes[nid]['y'], self.G.nodes[nid]['x']) for nid in path_nodes]
+            coordinates = self._build_path_coordinates(path_nodes)
             self.current_map_path = self.map_widget.set_path(coordinates, color=C["accent"], width=5)
             self.start_marker = self.map_widget.set_marker(coordinates[0][0], coordinates[0][1], text=f"Đi: {start_station}", marker_color_circle="#10B981")
             self.end_marker = self.map_widget.set_marker(coordinates[-1][0], coordinates[-1][1], text=f"Đến: {end_station}", marker_color_circle="#EF4444")

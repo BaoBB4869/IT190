@@ -8,7 +8,7 @@ def load_berlin_rail_network():
     
     rail_filter = '["railway"~"subway|tram|rail|light_rail"]'
     
-    G = ox.graph_from_place(place_name, custom_filter= rail_filter, simplify= False)
+    G = ox.graph_from_place(place_name, custom_filter= rail_filter, simplify= True)
     
     filepath = "berlin_rail.graphml"
     

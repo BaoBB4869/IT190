@@ -22887,7 +22887,7 @@
     <edge source="21302154" target="2781628660" id="0">
       <data key="d9">[4490240, 4490242, 4490243, 4490244, 4490245, 4490246, 4490247, 4490248, 4490249, 4490250, 4490251, 4490252, 57728648, 4490254, 275724841, 273275699, 273275701, 4490170, 4434429, 4490239]</data>
       <data key="d16">['viaduct', 'yes']</data>
-      <data key="d10">['80', '60']</data>
+      <data key="d10">['60', '80']</data>
       <data key="d15">6024</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -22990,7 +22990,7 @@
     </edge>
     <edge source="26124404" target="3886770402" id="0">
       <data key="d9">[26435781, 26435558, 719349420, 29359348, 29359349, 1266672532]</data>
-      <data key="d10">['80', '60']</data>
+      <data key="d10">['60', '80']</data>
       <data key="d18">Berliner Ringbahn</data>
       <data key="d15">6170</data>
       <data key="d12">False</data>
@@ -23001,7 +23001,7 @@
     </edge>
     <edge source="26124404" target="567183133" id="0">
       <data key="d9">[4740770, 1266965617, 44908530, 44908532]</data>
-      <data key="d10">['80', '60']</data>
+      <data key="d10">['60', '80']</data>
       <data key="d18">Berliner Ringbahn</data>
       <data key="d15">6170</data>
       <data key="d12">False</data>
@@ -23268,7 +23268,7 @@
     </edge>
     <edge source="26906156" target="286761822" id="0">
       <data key="d9">[27850761, 27850762, 1158221706, 27850764, 1158221705, 27850766, 290155410, 4863635, 4863636, 4740732, 26187939, 26187940, 26187941, 26187944, 26187945, 4693039, 4693040, 4693041, 456979634, 26187952, 1295392714, 1295392715, 1295392725, 1295392726, 1158221688, 1158221689, 4863612]</data>
-      <data key="d10">['100', '80', '50']</data>
+      <data key="d10">['100', '50', '80']</data>
       <data key="d15">['6184', '6177']</data>
       <data key="d12">False</data>
       <data key="d13">[False, True]</data>
@@ -23322,7 +23322,7 @@
     </edge>
     <edge source="26936185" target="27216308" id="0">
       <data key="d9">[1278155297, 438414950, 438414951, 531237642, 36853644, 1155801229, 1155801230, 4490198, 4490199, 1236722172, 1237407038]</data>
-      <data key="d10">['70', '80', '60']</data>
+      <data key="d10">['60', '70', '80']</data>
       <data key="d15">6020</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -23366,7 +23366,7 @@
     </edge>
     <edge source="27133050" target="27318020" id="0">
       <data key="d9">[4448448, 24896676, 24896679, 868021681, 4824530, 4824531, 868021683, 4484157]</data>
-      <data key="d10">['120', '130']</data>
+      <data key="d10">['130', '120']</data>
       <data key="d15">6118</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -23475,7 +23475,7 @@
     </edge>
     <edge source="27200025" target="30206492" id="0">
       <data key="d9">[29385328, 1201360716, 1156003279]</data>
-      <data key="d10">['70', '80', '60']</data>
+      <data key="d10">['60', '70', '80']</data>
       <data key="d15">6002</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -23546,7 +23546,7 @@
     </edge>
     <edge source="27216308" target="26936185" id="0">
       <data key="d9">[1278155297, 438414950, 438414951, 531237642, 36853644, 1155801229, 1155801230, 4490198, 4490199, 1236722172, 1237407038]</data>
-      <data key="d10">['70', '80', '60']</data>
+      <data key="d10">['60', '70', '80']</data>
       <data key="d15">6020</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -23597,7 +23597,7 @@
       <data key="d10">30</data>
       <data key="d18">U3</data>
       <data key="d15">U3</data>
-      <data key="d19">['no', 'yes']</data>
+      <data key="d19">['yes', 'no']</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
       <data key="d14">387.0920683191128</data>
@@ -23643,7 +23643,7 @@
     </edge>
     <edge source="27325964" target="28096515" id="0">
       <data key="d9">[52937827, 25982342, 4500168, 532685292, 25642348, 25642349, 4525937, 276205109, 4525942, 276205111, 4756281]</data>
-      <data key="d10">['70', '80', '60']</data>
+      <data key="d10">['60', '70', '80']</data>
       <data key="d15">6020</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -23674,7 +23674,7 @@
     <edge source="27412235" target="6439731007" id="0">
       <data key="d9">[23809673, 4471817, 32590493, 32590494, 32590495, 32590496, 25086879, 32590893, 32590894, 32590638, 32590901, 32590902, 32590647, 32590645, 72984377, 25946681, 25946682, 32590437, 32590438]</data>
       <data key="d16">['yes', 'viaduct']</data>
-      <data key="d10">['80', '60']</data>
+      <data key="d10">['60', '80']</data>
       <data key="d18">Berliner Stadtbahn</data>
       <data key="d15">6024</data>
       <data key="d12">False</data>
@@ -23799,7 +23799,7 @@
     </edge>
     <edge source="27429818" target="9845802185" id="0">
       <data key="d9">[10360548, 10360549, 27681617, 136703830, 494829336]</data>
-      <data key="d10">['120', '140']</data>
+      <data key="d10">['140', '120']</data>
       <data key="d15">6134</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -24102,7 +24102,7 @@
     </edge>
     <edge source="28096515" target="27325964" id="0">
       <data key="d9">[52937827, 25982342, 4500168, 25642348, 25642349, 532685292, 4525937, 276205109, 4525942, 276205111, 4756281]</data>
-      <data key="d10">['70', '80', '60']</data>
+      <data key="d10">['60', '70', '80']</data>
       <data key="d15">6020</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -24328,7 +24328,7 @@
     </edge>
     <edge source="29707226" target="274803508" id="0">
       <data key="d9">[4677634, 219826696, 298863214, 453841551, 295391384]</data>
-      <data key="d10">['90', '160']</data>
+      <data key="d10">['160', '90']</data>
       <data key="d15">6107</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -24431,7 +24431,7 @@
     </edge>
     <edge source="29794223" target="1359442528" id="0">
       <data key="d9">[121421962, 1125949326, 1125949328, 1155847955, 1155847956, 1155847957, 463437334, 1155847959, 28243480, 28243481, 375331614, 375331627, 8096475, 8096476, 427231835, 427231838, 8096478, 427231836, 8096479, 4741219, 4741220, 1125299946]</data>
-      <data key="d10">['70', '80', '50']</data>
+      <data key="d10">['70', '50', '80']</data>
       <data key="d15">6020</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -24468,7 +24468,7 @@
     </edge>
     <edge source="29804047" target="29804039" id="0">
       <data key="d9">[28276835, 28276838, 28276839, 1435120872, 28199924, 4688761, 4688762, 4688763, 1159405021]</data>
-      <data key="d10">['50', '60']</data>
+      <data key="d10">['60', '50']</data>
       <data key="d15">6140</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -24478,7 +24478,7 @@
     </edge>
     <edge source="29804047" target="310517034" id="0">
       <data key="d9">[1126127971, 28276836, 28276837, 1435120871, 28276840, 28276975, 28276976, 28277107, 28243320, 1159405022]</data>
-      <data key="d10">['50', '60']</data>
+      <data key="d10">['60', '50']</data>
       <data key="d15">6140</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -24626,7 +24626,7 @@
     </edge>
     <edge source="29804096" target="581916702" id="0">
       <data key="d9">[1290620796, 320398660]</data>
-      <data key="d10">['40', '60']</data>
+      <data key="d10">['60', '40']</data>
       <data key="d15">6139</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -24825,7 +24825,7 @@
     </edge>
     <edge source="29807224" target="2421901022" id="0">
       <data key="d9">[1459929512, 233865121, 1156008190]</data>
-      <data key="d10">['100', '60']</data>
+      <data key="d10">['60', '100']</data>
       <data key="d15">6060</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -24869,7 +24869,7 @@
     </edge>
     <edge source="29807235" target="318344323" id="0">
       <data key="d9">[1348836099, 1348836100, 251750397]</data>
-      <data key="d10">['100', '60']</data>
+      <data key="d10">['60', '100']</data>
       <data key="d18">Ostbahn</data>
       <data key="d15">6078</data>
       <data key="d12">False</data>
@@ -25103,7 +25103,7 @@
     </edge>
     <edge source="29808765" target="30219444" id="0">
       <data key="d9">[320220958, 1265865303]</data>
-      <data key="d11">['yard', 'siding']</data>
+      <data key="d11">['siding', 'yard']</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
       <data key="d14">534.9186347520299</data>
@@ -25193,7 +25193,7 @@
     </edge>
     <edge source="29857249" target="640051957" id="0">
       <data key="d9">[868080571, 320178173]</data>
-      <data key="d10">['80', '60']</data>
+      <data key="d10">['60', '80']</data>
       <data key="d15">6069</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -25568,7 +25568,7 @@
     </edge>
     <edge source="29921517" target="246772446" id="0">
       <data key="d9">[23010016, 23010017, 22917985, 22917984, 1265865318, 22917895, 22917894, 1137023947, 23009812, 23009813, 1120761621, 1120761622, 206889081, 22917982, 22917983]</data>
-      <data key="d10">['30', '50', '60']</data>
+      <data key="d10">['30', '60', '50']</data>
       <data key="d15">6144</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -25922,7 +25922,7 @@
     </edge>
     <edge source="29949484" target="181318138" id="0">
       <data key="d9">[1253059977, 141175716, 802255094]</data>
-      <data key="d10">['70', '60']</data>
+      <data key="d10">['60', '70']</data>
       <data key="d15">6025</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -25986,7 +25986,7 @@
     </edge>
     <edge source="30206146" target="2793243094" id="0">
       <data key="d9">[44908545, 44908547, 237947345, 421646140, 4740765, 504503839]</data>
-      <data key="d10">['90', '70']</data>
+      <data key="d10">['70', '90']</data>
       <data key="d15">6020</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -26004,7 +26004,7 @@
     </edge>
     <edge source="30206351" target="249183221" id="0">
       <data key="d9">[29385430, 1358328878, 30712997]</data>
-      <data key="d10">['70', '60']</data>
+      <data key="d10">['60', '70']</data>
       <data key="d15">6002</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -26013,7 +26013,7 @@
     </edge>
     <edge source="30206351" target="567183193" id="0">
       <data key="d9">[1358328880, 275933875]</data>
-      <data key="d10">['50', '60']</data>
+      <data key="d10">['60', '50']</data>
       <data key="d11">crossover</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -26070,7 +26070,7 @@
     </edge>
     <edge source="30206492" target="27200025" id="0">
       <data key="d9">[29385328, 1201360716, 1156003279]</data>
-      <data key="d10">['70', '80', '60']</data>
+      <data key="d10">['60', '70', '80']</data>
       <data key="d15">6002</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -26270,7 +26270,7 @@
     </edge>
     <edge source="30206713" target="4438769724" id="0">
       <data key="d9">[29359224, 1266672538, 35200839]</data>
-      <data key="d10">['80', '60']</data>
+      <data key="d10">['60', '80']</data>
       <data key="d15">6141</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -26612,7 +26612,7 @@
     </edge>
     <edge source="30207276" target="4746086767" id="0">
       <data key="d9">[4782400, 26416609, 717853029, 26416613, 251840358, 44418472, 26416587, 26416591, 4741015, 25500722, 25500724, 29119828, 29119829, 252505239, 44418462, 1468583551]</data>
-      <data key="d10">['160', '80', '110']</data>
+      <data key="d10">['160', '110', '80']</data>
       <data key="d18">Stettiner Bahn</data>
       <data key="d15">6081</data>
       <data key="d12">False</data>
@@ -26773,7 +26773,7 @@
     </edge>
     <edge source="30208862" target="30209491" id="0">
       <data key="d9">[463431362, 4741157, 1266326118, 41893771, 4741206]</data>
-      <data key="d10">['100', '60']</data>
+      <data key="d10">['60', '100']</data>
       <data key="d18">Berliner Ringbahn</data>
       <data key="d15">6170</data>
       <data key="d12">False</data>
@@ -26802,7 +26802,7 @@
     </edge>
     <edge source="30209491" target="30208862" id="0">
       <data key="d9">[463431362, 4741157, 1266326118, 41893771, 4741206]</data>
-      <data key="d10">['100', '60']</data>
+      <data key="d10">['60', '100']</data>
       <data key="d18">Berliner Ringbahn</data>
       <data key="d15">6170</data>
       <data key="d12">False</data>
@@ -26863,7 +26863,7 @@
     </edge>
     <edge source="30209497" target="581903368" id="0">
       <data key="d9">[828713123, 383960613, 375331591, 383960616, 1264999370, 1264999371, 1125949324, 375331598, 45662294, 446633271, 45662297, 43011610, 1290620797, 4741502]</data>
-      <data key="d10">['70', '60']</data>
+      <data key="d10">['60', '70']</data>
       <data key="d18">Berliner Ringbahn</data>
       <data key="d15">6170</data>
       <data key="d12">False</data>
@@ -26891,7 +26891,7 @@
     </edge>
     <edge source="30209514" target="30210473" id="0">
       <data key="d9">[375331584, 383960614, 1264999369, 719344618, 1125949323, 1264999372, 375331572, 4741205, 1266672542]</data>
-      <data key="d10">['70', '60']</data>
+      <data key="d10">['60', '70']</data>
       <data key="d18">Berliner Ringbahn</data>
       <data key="d15">6170</data>
       <data key="d12">False</data>
@@ -27038,7 +27038,7 @@
     </edge>
     <edge source="30210473" target="30209514" id="0">
       <data key="d9">[375331584, 383960614, 1264999369, 719344618, 1125949323, 1264999372, 375331572, 4741205, 1266672542]</data>
-      <data key="d10">['70', '60']</data>
+      <data key="d10">['60', '70']</data>
       <data key="d18">Berliner Ringbahn</data>
       <data key="d15">6170</data>
       <data key="d12">False</data>
@@ -27681,7 +27681,7 @@
     </edge>
     <edge source="30219410" target="30219444" id="0">
       <data key="d9">[320297264, 1265865298]</data>
-      <data key="d11">['yard', 'siding']</data>
+      <data key="d11">['siding', 'yard']</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
       <data key="d14">207.38223363958514</data>
@@ -27820,7 +27820,7 @@
     </edge>
     <edge source="30219443" target="310519925" id="0">
       <data key="d9">[1265865299, 320246374]</data>
-      <data key="d11">['yard', 'siding']</data>
+      <data key="d11">['siding', 'yard']</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
       <data key="d14">530.8384810756495</data>
@@ -27828,7 +27828,7 @@
     </edge>
     <edge source="30219443" target="310519925" id="1">
       <data key="d9">[320220977, 1265865300]</data>
-      <data key="d11">['yard', 'siding']</data>
+      <data key="d11">['siding', 'yard']</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
       <data key="d14">529.7106122386743</data>
@@ -28513,13 +28513,13 @@
     </edge>
     <edge source="30353059" target="322633796" id="0">
       <data key="d9">[238452718, 199325265, 1348263188, 503475929, 29326645, 29326644, 12702392, 12702393, 1348263191, 4756286]</data>
-      <data key="d10">['40', '100', '60']</data>
-      <data key="d15">['6034', '6035']</data>
+      <data key="d10">['60', '100', '40']</data>
+      <data key="d15">['6035', '6034']</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
       <data key="d14">2047.9901249482052</data>
       <data key="d16">yes</data>
-      <data key="d18">['Yorckbrücke 7', 'Anhalter Vorortbahn']</data>
+      <data key="d18">['Anhalter Vorortbahn', 'Yorckbrücke 7']</data>
       <data key="d19">yes</data>
       <data key="d17">LINESTRING (13.36989 52.4842989, 13.3705907 52.4854866, 13.3705934 52.4854914, 13.3707478 52.4857691, 13.3709519 52.4861364, 13.3710892 52.4863905, 13.3712204 52.4866401, 13.3713308 52.486935, 13.3714438 52.4872764, 13.3714584 52.4873186, 13.3716399 52.4878588, 13.3717621 52.4882281, 13.3718225 52.4884163, 13.3718671 52.4885865, 13.3719008 52.4888246, 13.3719252 52.4891128, 13.3719529 52.4895774, 13.3719488 52.4899645, 13.3719507 52.4902672, 13.3719534 52.4903958, 13.3719558 52.4905571, 13.3719638 52.4907271, 13.3719822 52.4909741, 13.3719912 52.4911269, 13.3720028 52.4912742, 13.3720797 52.4920512, 13.3720811 52.4920665, 13.3720942 52.4922248, 13.3720975 52.4922924, 13.3721166 52.4925655, 13.3721802 52.4933486, 13.3721973 52.493541, 13.3722447 52.4940649, 13.3723123 52.4946124, 13.3724003 52.4949635, 13.372484 52.4952065, 13.3725261 52.4953286, 13.3725446 52.4953692, 13.3729058 52.4960165, 13.3731166 52.4964067, 13.3734416 52.4968656, 13.3738071 52.497206, 13.3740918 52.497448, 13.3743942 52.4976652, 13.3749694 52.4980483, 13.375316 52.4982335, 13.375675 52.4984065, 13.3767642 52.4988581, 13.3778507 52.499303, 13.3781729 52.49947, 13.378524 52.4997142, 13.3788493 52.500012, 13.3789595 52.5001305, 13.379037 52.5002242, 13.3795149 52.5008701)</data>
     </edge>
@@ -28634,7 +28634,7 @@
     <edge source="30353488" target="11346126914" id="0">
       <data key="d9">[1349505987, 4756368, 4756369, 12684823, 1441822779, 1473271710]</data>
       <data key="d16">yes</data>
-      <data key="d10">['160', '140']</data>
+      <data key="d10">['140', '160']</data>
       <data key="d18">Dresdner Bahn</data>
       <data key="d15">6135</data>
       <data key="d12">False</data>
@@ -28682,7 +28682,7 @@
     </edge>
     <edge source="30353497" target="30740222" id="0">
       <data key="d9">[12684832, 12684833, 1458245963, 1473271709]</data>
-      <data key="d10">['160', '140']</data>
+      <data key="d10">['140', '160']</data>
       <data key="d18">Dresdner Bahn</data>
       <data key="d15">6135</data>
       <data key="d12">False</data>
@@ -29106,7 +29106,7 @@
     </edge>
     <edge source="30740222" target="30353497" id="0">
       <data key="d9">[12684832, 12684833, 1458245963, 1473271709]</data>
-      <data key="d10">['160', '140']</data>
+      <data key="d10">['140', '160']</data>
       <data key="d18">Dresdner Bahn</data>
       <data key="d15">6135</data>
       <data key="d12">False</data>
@@ -29346,7 +29346,7 @@
     </edge>
     <edge source="34663485" target="10823971568" id="0">
       <data key="d9">[5087072, 5087073, 718121901, 5087058, 5087059, 368769077, 5087071, 368769080, 4753113, 4752796, 1455792831]</data>
-      <data key="d10">['90', '100']</data>
+      <data key="d10">['100', '90']</data>
       <data key="d15">6035</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -29365,7 +29365,7 @@
     </edge>
     <edge source="34663485" target="322640240" id="0">
       <data key="d9">[4586338, 368769082, 4617306, 786993964, 528398381, 718121902, 257731633, 257731634, 368769076, 4753114, 29327005]</data>
-      <data key="d10">['90', '100']</data>
+      <data key="d10">['100', '90']</data>
       <data key="d15">6036</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -29385,7 +29385,7 @@
     </edge>
     <edge source="34663488" target="322640240" id="0">
       <data key="d9">[528398380, 5087063, 257731631, 718121904, 257731632, 5087057, 5087062, 368769078, 368769081]</data>
-      <data key="d10">['90', '100']</data>
+      <data key="d10">['100', '90']</data>
       <data key="d15">6036</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -29395,7 +29395,7 @@
     </edge>
     <edge source="34663488" target="10823971569" id="0">
       <data key="d9">[5087074, 5087075, 718121903, 5087060, 5087061, 368769079, 368769083, 5087068, 5087069, 1455792830, 255994301]</data>
-      <data key="d10">['90', '100']</data>
+      <data key="d10">['100', '90']</data>
       <data key="d15">6035</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -30097,7 +30097,7 @@
     </edge>
     <edge source="51406343" target="290165155" id="0">
       <data key="d9">[12702401, 12702402, 6182429]</data>
-      <data key="d18">['Yorckbrücke 21', 'Anschlußbahn des DTMB']</data>
+      <data key="d18">['Anschlußbahn des DTMB', 'Yorckbrücke 21']</data>
       <data key="d11">spur</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -30645,7 +30645,7 @@
       <data key="d9">[467533744, 392498665, 37043132]</data>
       <data key="d10">120</data>
       <data key="d18">Berliner Außenring</data>
-      <data key="d15">['6067', '6087']</data>
+      <data key="d15">['6087', '6067']</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
       <data key="d14">1530.7509278074936</data>
@@ -30684,7 +30684,7 @@
       <data key="d9">[467533744, 392498665, 37043132]</data>
       <data key="d10">120</data>
       <data key="d18">Berliner Außenring</data>
-      <data key="d15">['6067', '6087']</data>
+      <data key="d15">['6087', '6067']</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
       <data key="d14">1530.7509278074936</data>
@@ -31632,7 +31632,7 @@
     <edge source="81421144" target="2938625242" id="0">
       <data key="d9">[47699490, 290305127]</data>
       <data key="d10">140</data>
-      <data key="d18">['Schnellfahrstrecke Oebisfelde–Spandau', 'SFS Oebisfelde–Spandau']</data>
+      <data key="d18">['SFS Oebisfelde–Spandau', 'Schnellfahrstrecke Oebisfelde–Spandau']</data>
       <data key="d15">6185</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -31738,7 +31738,7 @@
     </edge>
     <edge source="81485294" target="81462703" id="0">
       <data key="d9">[9966751, 10149027, 10149348, 10149029, 290305125, 10149347, 9966740, 9966741, 9933818, 9966750, 363231583]</data>
-      <data key="d10">['120', '100']</data>
+      <data key="d10">['100', '120']</data>
       <data key="d15">6179</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -32152,7 +32152,7 @@
     </edge>
     <edge source="87839893" target="304006525" id="0">
       <data key="d9">[4756291, 136703819, 10360565, 299339990, 44732150]</data>
-      <data key="d10">['120', '140']</data>
+      <data key="d10">['140', '120']</data>
       <data key="d15">6134</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -32171,7 +32171,7 @@
     </edge>
     <edge source="91711764" target="315140135" id="0">
       <data key="d9">[388432540, 4638597, 438860774, 375386235, 272795470, 380981360, 380981363, 386347070, 438957595, 24180220, 375386238, 388432543]</data>
-      <data key="d19">['no', 'yes']</data>
+      <data key="d19">['yes', 'no']</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
       <data key="d14">4384.886606028082</data>
@@ -32214,7 +32214,7 @@
     </edge>
     <edge source="94704894" target="247189706" id="0">
       <data key="d9">[22917401, 22917402, 22917403]</data>
-      <data key="d10">['100', '60']</data>
+      <data key="d10">['60', '100']</data>
       <data key="d15">6145</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -32851,7 +32851,7 @@
     </edge>
     <edge source="110088555" target="110124645" id="0">
       <data key="d9">[290741156, 531237636]</data>
-      <data key="d10">['80', '60']</data>
+      <data key="d10">['60', '80']</data>
       <data key="d15">6020</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -32860,7 +32860,7 @@
     </edge>
     <edge source="110088555" target="287595769" id="0">
       <data key="d9">[43103820, 914485740, 1265679535, 5880627, 5880628, 26706296, 26706299]</data>
-      <data key="d10">['50', '40']</data>
+      <data key="d10">['40', '50']</data>
       <data key="d15">6023</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -32888,7 +32888,7 @@
     </edge>
     <edge source="110124645" target="110088555" id="0">
       <data key="d9">[290741156, 531237636]</data>
-      <data key="d10">['80', '60']</data>
+      <data key="d10">['60', '80']</data>
       <data key="d15">6020</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -33002,7 +33002,7 @@
     </edge>
     <edge source="110477735" target="263130681" id="0">
       <data key="d9">[531237632, 384165126, 384165128, 24295378, 24295379, 744828052, 1265856116, 1237407030, 374931224, 290738874, 374931227]</data>
-      <data key="d10">['100', '70', '80', '90', '60']</data>
+      <data key="d10">['90', '60', '70', '100', '80']</data>
       <data key="d15">6020</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -34306,7 +34306,7 @@
     </edge>
     <edge source="181318138" target="29949484" id="0">
       <data key="d9">[1253059977, 141175716, 802255094]</data>
-      <data key="d10">['70', '60']</data>
+      <data key="d10">['60', '70']</data>
       <data key="d15">6025</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -34492,7 +34492,7 @@
     </edge>
     <edge source="226801153" target="285023132" id="0">
       <data key="d9">[1427315432, 1424338845, 4434382]</data>
-      <data key="d10">['80', '40']</data>
+      <data key="d10">['40', '80']</data>
       <data key="d15">['6062', '6042']</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -34518,7 +34518,7 @@
     </edge>
     <edge source="226801186" target="226816418" id="0">
       <data key="d9">[21091673, 1424338843, 1427315431]</data>
-      <data key="d10">['80', '40']</data>
+      <data key="d10">['40', '80']</data>
       <data key="d15">['6062', '6042']</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -34595,7 +34595,7 @@
     </edge>
     <edge source="226816418" target="226801186" id="0">
       <data key="d9">[21091673, 1424338843, 1427315431]</data>
-      <data key="d10">['80', '40']</data>
+      <data key="d10">['40', '80']</data>
       <data key="d15">['6062', '6042']</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -35308,7 +35308,7 @@
     </edge>
     <edge source="246763016" target="247190868" id="0">
       <data key="d9">[22945744, 22917986, 22917987, 868081839]</data>
-      <data key="d10">['100', '60']</data>
+      <data key="d10">['60', '100']</data>
       <data key="d15">6145</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -35395,7 +35395,7 @@
     </edge>
     <edge source="246767347" target="505202893" id="0">
       <data key="d9">[22945414, 22945415, 1459929515, 5116494, 5116495, 152177650, 152177653, 152177657]</data>
-      <data key="d10">['80', '60']</data>
+      <data key="d10">['60', '80']</data>
       <data key="d15">6147</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -35457,7 +35457,7 @@
     </edge>
     <edge source="246772446" target="29921517" id="0">
       <data key="d9">[22917984, 22917985, 23010016, 23010017, 22917894, 1265865318, 22917895, 1137023947, 23009812, 1120761621, 1120761622, 23009813, 206889081, 22917982, 22917983]</data>
-      <data key="d10">['30', '50', '60']</data>
+      <data key="d10">['30', '60', '50']</data>
       <data key="d15">6144</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -35525,7 +35525,7 @@
     </edge>
     <edge source="247189706" target="94704894" id="0">
       <data key="d9">[22917401, 22917402, 22917403]</data>
-      <data key="d10">['100', '60']</data>
+      <data key="d10">['60', '100']</data>
       <data key="d15">6145</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -35579,7 +35579,7 @@
     </edge>
     <edge source="247190868" target="246763016" id="0">
       <data key="d9">[22945744, 22917986, 22917987, 868081839]</data>
-      <data key="d10">['100', '60']</data>
+      <data key="d10">['60', '100']</data>
       <data key="d15">6145</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -37015,7 +37015,7 @@
     </edge>
     <edge source="248077407" target="248081265" id="0">
       <data key="d9">[1274833345, 4702865, 4702866, 4702867, 4702868, 4702869, 4702870, 4702871]</data>
-      <data key="d10">['120', '100']</data>
+      <data key="d10">['100', '120']</data>
       <data key="d18">Berliner Außenring</data>
       <data key="d15">6126</data>
       <data key="d12">False</data>
@@ -37183,7 +37183,7 @@
       <data key="d9">[467533739, 23010028, 23010030, 1274847983, 1457647984, 4702587]</data>
       <data key="d10">['100', '80']</data>
       <data key="d18">Berliner Außenring</data>
-      <data key="d15">['6080', '6126']</data>
+      <data key="d15">['6126', '6080']</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
       <data key="d14">1000.0089583369611</data>
@@ -37203,7 +37203,7 @@
       <data key="d9">[4702713, 467533740, 1457647983]</data>
       <data key="d10">['100', '80']</data>
       <data key="d18">Berliner Außenring</data>
-      <data key="d15">['6080', '6126']</data>
+      <data key="d15">['6126', '6080']</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
       <data key="d14">744.8309830140223</data>
@@ -38060,7 +38060,7 @@
     </edge>
     <edge source="249068800" target="246767394" id="0">
       <data key="d9">[72925925, 1238672202, 850450872, 29661017, 846012126]</data>
-      <data key="d10">['100', '70']</data>
+      <data key="d10">['70', '100']</data>
       <data key="d15">6008</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -38154,7 +38154,7 @@
     </edge>
     <edge source="249183221" target="2793810511" id="0">
       <data key="d9">[1201360715, 23085231, 23085232, 23085233, 29120369, 29120368, 29120371, 29344606]</data>
-      <data key="d10">['100', '70']</data>
+      <data key="d10">['70', '100']</data>
       <data key="d15">6002</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -38165,7 +38165,7 @@
     </edge>
     <edge source="249183221" target="30206351" id="0">
       <data key="d9">[1358328878, 30712997, 29385430]</data>
-      <data key="d10">['70', '60']</data>
+      <data key="d10">['60', '70']</data>
       <data key="d15">6002</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -38228,7 +38228,7 @@
     </edge>
     <edge source="249195434" target="1562575857" id="0">
       <data key="d9">[52704771, 1239408526, 1459551543]</data>
-      <data key="d10">['80', '50']</data>
+      <data key="d10">['50', '80']</data>
       <data key="d15">6030</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -38461,7 +38461,7 @@
     </edge>
     <edge source="250136019" target="603659227" id="0">
       <data key="d9">[1270715315, 47427181]</data>
-      <data key="d11">['yard', 'siding']</data>
+      <data key="d11">['siding', 'yard']</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
       <data key="d14">381.74759826520824</data>
@@ -38601,7 +38601,7 @@
     </edge>
     <edge source="250137382" target="603659227" id="0">
       <data key="d9">[290305129, 1270715316]</data>
-      <data key="d11">['yard', 'siding']</data>
+      <data key="d11">['siding', 'yard']</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
       <data key="d14">412.96695704632657</data>
@@ -38649,7 +38649,7 @@
     </edge>
     <edge source="250137388" target="250137383" id="0">
       <data key="d9">[23153545, 1270715317, 810553527]</data>
-      <data key="d11">['yard', 'siding']</data>
+      <data key="d11">['siding', 'yard']</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
       <data key="d14">487.42852950554385</data>
@@ -38673,7 +38673,7 @@
     </edge>
     <edge source="251542477" target="2071462091" id="0">
       <data key="d9">[25982208, 25982209, 25982210, 32548088, 531237649, 27734931, 27734932, 329890073, 1329662748, 1023966239, 1023966241, 303904321, 4500166, 24862035, 24862036, 24295382, 24295383, 4407774, 27730402, 27730403, 868036081, 32546931, 4525944, 4525945, 32548091, 25982205, 25982206, 25982207]</data>
-      <data key="d10">['40', '100', '60']</data>
+      <data key="d10">['60', '100', '40']</data>
       <data key="d15">6170</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -38698,7 +38698,7 @@
     </edge>
     <edge source="251542478" target="2071462077" id="0">
       <data key="d9">[329890071, 321022749, 1329662750, 1023966240, 44733097, 868036082, 448975412, 376818612, 4756283, 32546756, 32546757, 4500165, 32546935, 21809117, 19744871, 19744872, 25642350, 25642351, 4525938, 4525939, 32546932, 32546933, 32546934, 4525940, 32546936, 25982201, 25982202, 32548087]</data>
-      <data key="d10">['40', '100', '60']</data>
+      <data key="d10">['60', '100', '40']</data>
       <data key="d15">6170</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -38745,7 +38745,7 @@
     </edge>
     <edge source="251546958" target="270228093" id="0">
       <data key="d9">[23247826, 1427315443, 1427315444]</data>
-      <data key="d10">['80', '40']</data>
+      <data key="d10">['40', '80']</data>
       <data key="d15">6013</data>
       <data key="d11">yard</data>
       <data key="d12">False</data>
@@ -38775,7 +38775,7 @@
     </edge>
     <edge source="251546960" target="354679156" id="0">
       <data key="d9">[26066310, 26066311, 868033452, 12301425, 12301426, 12338110, 8789622, 8789625, 8789626, 12301435, 12301438, 12338111]</data>
-      <data key="d10">['120', '100']</data>
+      <data key="d10">['100', '120']</data>
       <data key="d15">6118</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -38861,7 +38861,7 @@
     </edge>
     <edge source="254087656" target="715739427" id="0">
       <data key="d9">[37427018, 57727693, 37427023, 37427024, 37427029, 37427030, 207993049, 47365659, 57728638]</data>
-      <data key="d10">['100', '60']</data>
+      <data key="d10">['60', '100']</data>
       <data key="d15">6109</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -38881,7 +38881,7 @@
     </edge>
     <edge source="254087657" target="715739440" id="0">
       <data key="d9">[57728646, 37427017, 37427021, 37427022, 37427027, 37427028, 57727704, 207993052]</data>
-      <data key="d10">['100', '60']</data>
+      <data key="d10">['60', '100']</data>
       <data key="d15">6109</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -38909,7 +38909,7 @@
     </edge>
     <edge source="254153228" target="247189506" id="0">
       <data key="d9">[4468438, 850450871, 850450873, 22945629, 846012127]</data>
-      <data key="d10">['100', '70']</data>
+      <data key="d10">['70', '100']</data>
       <data key="d15">6008</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -39728,9 +39728,9 @@
     </edge>
     <edge source="261748035" target="2101295553" id="0">
       <data key="d9">[158470016, 24181249, 24165894, 24165902, 24165903, 24165906, 24179092, 1125072788, 24178871, 446633275, 421179331, 24179012, 200143176, 200143180, 200143182, 24179026, 24165859, 24165863, 200143856, 24165874, 24165877, 24179070]</data>
-      <data key="d10">['100', '60']</data>
+      <data key="d10">['60', '100']</data>
       <data key="d18">['Bln Treptower Park - Treptow', 'Bahnstrecke Berlin–Görlitz']</data>
-      <data key="d15">['6170', '6164', '6142']</data>
+      <data key="d15">['6142', '6164', '6170']</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
       <data key="d14">4259.720981866235</data>
@@ -39910,7 +39910,7 @@
     </edge>
     <edge source="262322771" target="10728204101" id="0">
       <data key="d9">[369204332, 369204334, 344073167, 24227575, 24227581]</data>
-      <data key="d10">['80', '60']</data>
+      <data key="d10">['60', '80']</data>
       <data key="d15">6021</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -39993,7 +39993,7 @@
     </edge>
     <edge source="263130681" target="110477735" id="0">
       <data key="d9">[531237632, 384165126, 384165128, 24295378, 24295379, 1265856116, 744828052, 1237407030, 374931224, 290738874, 374931227]</data>
-      <data key="d10">['100', '70', '80', '90', '60']</data>
+      <data key="d10">['90', '60', '70', '100', '80']</data>
       <data key="d15">6020</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -40052,7 +40052,7 @@
     <edge source="267982089" target="2781628662" id="0">
       <data key="d9">[57728640, 438400101, 37427016, 377124041, 37427019, 37427020, 51268880, 273275698, 273275700]</data>
       <data key="d16">['viaduct', 'yes']</data>
-      <data key="d10">['80', '60']</data>
+      <data key="d10">['60', '80']</data>
       <data key="d15">6024</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -40240,7 +40240,7 @@
     </edge>
     <edge source="270228093" target="251546958" id="0">
       <data key="d9">[23247826, 1427315443, 1427315444]</data>
-      <data key="d10">['80', '40']</data>
+      <data key="d10">['40', '80']</data>
       <data key="d15">6013</data>
       <data key="d11">yard</data>
       <data key="d12">False</data>
@@ -40484,7 +40484,7 @@
     </edge>
     <edge source="273528802" target="273886373" id="0">
       <data key="d9">[1236722179, 26066814]</data>
-      <data key="d10">['90', '100']</data>
+      <data key="d10">['100', '90']</data>
       <data key="d15">6024</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -40543,7 +40543,7 @@
     </edge>
     <edge source="273886373" target="273528802" id="0">
       <data key="d9">[1236722179, 26066814]</data>
-      <data key="d10">['90', '100']</data>
+      <data key="d10">['100', '90']</data>
       <data key="d15">6024</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -40569,7 +40569,7 @@
     </edge>
     <edge source="273886381" target="2793803275" id="0">
       <data key="d9">[25152541, 26187091, 396800404, 25152533, 396800405, 25152535, 25152536, 25152537, 25152538, 25152539, 25152534, 26066813]</data>
-      <data key="d10">['90', '100']</data>
+      <data key="d10">['100', '90']</data>
       <data key="d15">6024</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -40782,7 +40782,7 @@
     </edge>
     <edge source="274803506" target="527860851" id="0">
       <data key="d9">[298691970, 23714886, 453841550, 25817242, 28736283]</data>
-      <data key="d10">['90', '160']</data>
+      <data key="d10">['160', '90']</data>
       <data key="d15">6107</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -40846,7 +40846,7 @@
     </edge>
     <edge source="274803508" target="29707226" id="0">
       <data key="d9">[4677634, 219826696, 298863214, 453841551, 295391384]</data>
-      <data key="d10">['90', '160']</data>
+      <data key="d10">['160', '90']</data>
       <data key="d15">6107</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -41148,7 +41148,7 @@
     </edge>
     <edge source="281661145" target="2071462107" id="0">
       <data key="d9">[19744868, 4526351, 1154993712, 230942387, 1243591605]</data>
-      <data key="d10">['80', '60']</data>
+      <data key="d10">['60', '80']</data>
       <data key="d15">6020</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -41454,7 +41454,7 @@
     </edge>
     <edge source="285023132" target="226801153" id="0">
       <data key="d9">[1427315432, 1424338845, 4434382]</data>
-      <data key="d10">['80', '40']</data>
+      <data key="d10">['40', '80']</data>
       <data key="d15">['6062', '6042']</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -41704,7 +41704,7 @@
     </edge>
     <edge source="286761822" target="26906156" id="0">
       <data key="d9">[1158221705, 1158221706, 27850761, 27850762, 27850764, 27850766, 290155410, 4863635, 4863636, 4863612, 26187939, 26187940, 26187941, 26187944, 26187945, 4693039, 26187952, 4693041, 4693040, 456979634, 1295392714, 1295392715, 1295392725, 1295392726, 1158221688, 1158221689, 4740732]</data>
-      <data key="d10">['100', '80', '50']</data>
+      <data key="d10">['100', '50', '80']</data>
       <data key="d15">['6184', '6177']</data>
       <data key="d12">False</data>
       <data key="d13">[False, True]</data>
@@ -41715,7 +41715,7 @@
     <edge source="286762540" target="316920670" id="0">
       <data key="d9">[4474688, 1158221701, 1158221703, 426435450, 4474687]</data>
       <data key="d16">yes</data>
-      <data key="d10">['90', '120']</data>
+      <data key="d10">['120', '90']</data>
       <data key="d15">6118</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -41725,7 +41725,7 @@
     <edge source="286762540" target="4882036419" id="0">
       <data key="d9">[13237248, 4364674, 1158221701, 23549862, 4818011, 868033454, 4818012, 13237262, 22874353, 38491922, 26187955, 22874355, 1424338839, 4480603, 4469435, 1158221692, 1158221693, 23549854]</data>
       <data key="d16">yes</data>
-      <data key="d10">['90', '120']</data>
+      <data key="d10">['120', '90']</data>
       <data key="d15">6118</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -41754,7 +41754,7 @@
     </edge>
     <edge source="286762541" target="4882036416" id="0">
       <data key="d9">[1158221699, 1158221700, 25152526, 25152527, 25152528, 25152529, 25152530, 25152531, 25152532, 1424338838, 25152540, 868033453, 26187950, 26187957, 26187958, 26187093, 26187095, 1158221690, 1158221691]</data>
-      <data key="d10">['90', '120']</data>
+      <data key="d10">['120', '90']</data>
       <data key="d15">6118</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -42008,7 +42008,7 @@
     </edge>
     <edge source="289678327" target="322813773" id="0">
       <data key="d9">[504503840, 237947334, 26436023, 421646138, 44908542]</data>
-      <data key="d10">['90', '70']</data>
+      <data key="d10">['70', '90']</data>
       <data key="d15">6020</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -42284,7 +42284,7 @@
     </edge>
     <edge source="290165155" target="51406343" id="0">
       <data key="d9">[12702401, 12702402, 6182429]</data>
-      <data key="d18">['Yorckbrücke 21', 'Anschlußbahn des DTMB']</data>
+      <data key="d18">['Anschlußbahn des DTMB', 'Yorckbrücke 21']</data>
       <data key="d11">spur</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -42387,7 +42387,7 @@
     </edge>
     <edge source="290347038" target="567465335" id="0">
       <data key="d9">[136703810, 355286470, 27681608, 295391382, 44732152]</data>
-      <data key="d10">['120', '140']</data>
+      <data key="d10">['140', '120']</data>
       <data key="d15">6171</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -43027,7 +43027,7 @@
     </edge>
     <edge source="300951386" target="414029469" id="0">
       <data key="d9">[27414913, 35323402]</data>
-      <data key="d10">['100', '60']</data>
+      <data key="d10">['60', '100']</data>
       <data key="d15">6024</data>
       <data key="d12">False</data>
       <data key="d13">[False, True]</data>
@@ -43349,7 +43349,7 @@
     </edge>
     <edge source="303998939" target="277053712" id="0">
       <data key="d9">[4543584, 23714889, 4543658, 4543659, 4543660, 24700554, 4543952, 460595888, 255562648, 453082173, 4543582]</data>
-      <data key="d10">['90', '80']</data>
+      <data key="d10">['80', '90']</data>
       <data key="d18">Berliner Ringbahn</data>
       <data key="d15">6170</data>
       <data key="d12">False</data>
@@ -43473,7 +43473,7 @@
     </edge>
     <edge source="304006525" target="87839893" id="0">
       <data key="d9">[4756291, 136703819, 10360565, 44732150, 299339990]</data>
-      <data key="d10">['120', '140']</data>
+      <data key="d10">['140', '120']</data>
       <data key="d15">6134</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -43927,7 +43927,7 @@
     </edge>
     <edge source="309656732" target="319980193" id="0">
       <data key="d9">[24262592, 24262689, 292232670, 1329662744, 24262650, 24262686]</data>
-      <data key="d10">['10', '40']</data>
+      <data key="d10">['40', '10']</data>
       <data key="d11">spur</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -44529,7 +44529,7 @@
     </edge>
     <edge source="310519920" target="2101470360" id="0">
       <data key="d9">[288812687, 288812689, 407544853, 1015954105, 1015954106, 28277245, 28277246, 1411252669]</data>
-      <data key="d10">['80', '60']</data>
+      <data key="d10">['60', '80']</data>
       <data key="d15">6152</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -44632,7 +44632,7 @@
     </edge>
     <edge source="315140135" target="91711764" id="0">
       <data key="d9">[386347070, 438860774, 4638597, 24180220, 272795470, 380981360, 380981363, 438957595, 375386235, 388432540, 375386238, 388432543]</data>
-      <data key="d19">['no', 'yes']</data>
+      <data key="d19">['yes', 'no']</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
       <data key="d14">4384.886606028078</data>
@@ -45020,7 +45020,7 @@
     </edge>
     <edge source="316778070" target="10728204098" id="0">
       <data key="d9">[24179457, 24179461, 24258840, 24258844, 28812960, 28812961, 8096553, 13252396, 4703298, 1238672195, 4703301, 331607241, 331607244, 344073165, 24163534, 24163536, 344073168, 1201559403, 28812921]</data>
-      <data key="d10">['80', '60']</data>
+      <data key="d10">['60', '80']</data>
       <data key="d15">6021</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -45060,7 +45060,7 @@
     </edge>
     <edge source="316784612" target="567190877" id="0">
       <data key="d9">[1155829921, 4740804, 36106216, 44700616, 772751755, 772751756, 1358328879]</data>
-      <data key="d10">['70', '60']</data>
+      <data key="d10">['60', '70']</data>
       <data key="d15">6018</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -45089,7 +45089,7 @@
     </edge>
     <edge source="316785081" target="2793236567" id="0">
       <data key="d9">[41893764, 28820204, 375361371, 427231837, 375348223]</data>
-      <data key="d10">['90', '70']</data>
+      <data key="d10">['70', '90']</data>
       <data key="d15">6020</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -45204,7 +45204,7 @@
     </edge>
     <edge source="316920663" target="316920667" id="0">
       <data key="d9">[426435451, 1158221700]</data>
-      <data key="d10">['90', '120']</data>
+      <data key="d10">['120', '90']</data>
       <data key="d15">6118</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -45223,7 +45223,7 @@
     </edge>
     <edge source="316920667" target="316920663" id="0">
       <data key="d9">[426435451, 1158221700]</data>
-      <data key="d10">['90', '120']</data>
+      <data key="d10">['120', '90']</data>
       <data key="d15">6118</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -45251,7 +45251,7 @@
     </edge>
     <edge source="316920670" target="286762540" id="0">
       <data key="d9">[4474688, 1158221701, 1158221703, 426435450, 4474687]</data>
-      <data key="d10">['90', '120']</data>
+      <data key="d10">['120', '90']</data>
       <data key="d15">6118</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -45290,7 +45290,7 @@
     <edge source="316920671" target="316920677" id="0">
       <data key="d9">[855654867, 28825846, 28825847]</data>
       <data key="d10">25</data>
-      <data key="d11">['yard', 'siding']</data>
+      <data key="d11">['siding', 'yard']</data>
       <data key="d12">False</data>
       <data key="d13">[False, True]</data>
       <data key="d14">90.91878435105679</data>
@@ -45352,7 +45352,7 @@
     </edge>
     <edge source="316920677" target="414029858" id="0">
       <data key="d9">[27437393, 1274965409, 1414593330, 1274965406]</data>
-      <data key="d10">['50', '40']</data>
+      <data key="d10">['40', '50']</data>
       <data key="d11">siding</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -45805,7 +45805,7 @@
     </edge>
     <edge source="316923049" target="2793803273" id="0">
       <data key="d9">[23549861, 179944774, 26188523, 26188524, 26188525, 276509267, 4818013, 179944764, 479603069, 479603067, 479603068, 27434269, 4364671]</data>
-      <data key="d10">['100', '60']</data>
+      <data key="d10">['60', '100']</data>
       <data key="d15">6024</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -46000,7 +46000,7 @@
     </edge>
     <edge source="317319674" target="2781674113" id="0">
       <data key="d9">[273298720, 1232219206, 1232219207]</data>
-      <data key="d10">['40', '60']</data>
+      <data key="d10">['60', '40']</data>
       <data key="d11">siding</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -46188,7 +46188,7 @@
     </edge>
     <edge source="318112293" target="320911593" id="0">
       <data key="d9">[1015954112, 218255175, 38494153, 4741935, 4741936, 868080570]</data>
-      <data key="d10">['90', '120']</data>
+      <data key="d10">['120', '90']</data>
       <data key="d15">6153</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -46297,7 +46297,7 @@
     </edge>
     <edge source="318112314" target="317310480" id="0">
       <data key="d9">[898204992, 588080163, 136697956, 28863271, 136697968, 898204991]</data>
-      <data key="d10">['40', '60']</data>
+      <data key="d10">['60', '40']</data>
       <data key="d11">siding</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -46324,7 +46324,7 @@
     </edge>
     <edge source="318112315" target="317310480" id="0">
       <data key="d9">[588080162, 28863459, 136697958, 136697967, 898204989, 898204990]</data>
-      <data key="d10">['40', '60']</data>
+      <data key="d10">['60', '40']</data>
       <data key="d11">siding</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -46723,7 +46723,7 @@
     </edge>
     <edge source="318344323" target="29807235" id="0">
       <data key="d9">[1348836099, 1348836100, 251750397]</data>
-      <data key="d10">['100', '60']</data>
+      <data key="d10">['60', '100']</data>
       <data key="d18">Ostbahn</data>
       <data key="d15">6078</data>
       <data key="d12">False</data>
@@ -46733,7 +46733,7 @@
     </edge>
     <edge source="318685164" target="725264239" id="0">
       <data key="d9">[28981900, 28981901, 28981902, 28981903, 27415919, 28981906, 28981908, 335191037]</data>
-      <data key="d10">['120', '130']</data>
+      <data key="d10">['130', '120']</data>
       <data key="d15">6118</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -46831,7 +46831,7 @@
     </edge>
     <edge source="319241591" target="4381117720" id="0">
       <data key="d9">[174513546, 399483788, 1316815340, 29028654, 29028655, 29028653, 29028657, 103314095, 719295159, 31091162, 31091163]</data>
-      <data key="d10">['100', '80', '60']</data>
+      <data key="d10">['60', '100', '80']</data>
       <data key="d15">6004</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -47161,7 +47161,7 @@
     </edge>
     <edge source="319980193" target="309656732" id="0">
       <data key="d9">[24262592, 24262689, 24262686, 1329662744, 24262650, 292232670]</data>
-      <data key="d10">['10', '40']</data>
+      <data key="d10">['40', '10']</data>
       <data key="d11">spur</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -47296,7 +47296,7 @@
     </edge>
     <edge source="320245065" target="1334995565" id="0">
       <data key="d9">[26144356, 26144357, 185352459, 1239408508, 447526430]</data>
-      <data key="d10">['90', '60']</data>
+      <data key="d10">['60', '90']</data>
       <data key="d15">6005</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -47327,7 +47327,7 @@
       <data key="d9">[392498664, 250527580, 467533743]</data>
       <data key="d10">120</data>
       <data key="d18">Berliner Außenring</data>
-      <data key="d15">['6067', '6087']</data>
+      <data key="d15">['6087', '6067']</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
       <data key="d14">1547.4426584932821</data>
@@ -47597,7 +47597,7 @@
     </edge>
     <edge source="320911593" target="318112293" id="0">
       <data key="d9">[1015954112, 218255175, 38494153, 4741935, 4741936, 868080570]</data>
-      <data key="d10">['90', '120']</data>
+      <data key="d10">['120', '90']</data>
       <data key="d15">6153</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -47678,7 +47678,7 @@
     </edge>
     <edge source="320934094" target="29808269" id="0">
       <data key="d9">[606118219, 26137181, 10195213, 10195206]</data>
-      <data key="d10">['90', '80']</data>
+      <data key="d10">['80', '90']</data>
       <data key="d15">6011</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -47941,7 +47941,7 @@
     </edge>
     <edge source="322633796" target="558842780" id="0">
       <data key="d9">[26477249, 26477250, 1236950984, 1295392729, 1348263190, 273174487, 199340313, 1295392730, 26477243, 273174492, 26477246]</data>
-      <data key="d10">['60', '50', '80', '40']</data>
+      <data key="d10">['60', '40', '50', '80']</data>
       <data key="d15">6032</data>
       <data key="d19">yes</data>
       <data key="d12">False</data>
@@ -47952,8 +47952,8 @@
     </edge>
     <edge source="322633796" target="30353059" id="0">
       <data key="d9">[238452718, 199325265, 12702393, 29326644, 29326645, 1348263188, 1348263191, 12702392, 503475929, 4756286]</data>
-      <data key="d10">['100', '60', '40']</data>
-      <data key="d18">['Yorckbrücke 7', 'Anhalter Vorortbahn']</data>
+      <data key="d10">['60', '40', '100']</data>
+      <data key="d18">['Anhalter Vorortbahn', 'Yorckbrücke 7']</data>
       <data key="d15">['6035', '6034']</data>
       <data key="d19">yes</data>
       <data key="d12">False</data>
@@ -48028,7 +48028,7 @@
       <data key="d12">False</data>
       <data key="d13">False</data>
       <data key="d14">2200.670886656064</data>
-      <data key="d10">['90', '100']</data>
+      <data key="d10">['100', '90']</data>
       <data key="d16">yes</data>
       <data key="d17">LINESTRING (13.3498831 52.4442996, 13.3503607 52.4446933, 13.3506287 52.4449224, 13.3508737 52.4451363, 13.3511132 52.4453508, 13.3515925 52.4457911, 13.3519146 52.4461023, 13.3521428 52.4463293, 13.3523665 52.4465563, 13.3527902 52.4470059, 13.3530597 52.4472975, 13.3535179 52.4478287, 13.3538615 52.4482526, 13.3541331 52.4485942, 13.3541643 52.4486334, 13.3543541 52.4488721, 13.3545693 52.4491456, 13.3548299 52.4495119, 13.3551289 52.449976, 13.3555708 52.4506823, 13.3558619 52.4511587, 13.3560022 52.4513983, 13.3561337 52.4516378, 13.3562531 52.4518837, 13.3563658 52.4521442, 13.35647 52.4524069, 13.3565346 52.452601, 13.3565941 52.4527962, 13.3566447 52.452987, 13.3566912 52.4531789, 13.3567283 52.4533765, 13.3567604 52.4535753, 13.3567951 52.4538524, 13.3568079 52.453991, 13.3568168 52.4541296, 13.3568243 52.4542273, 13.3568253 52.4543743, 13.3568232 52.454771, 13.3568161 52.4548962, 13.3568046 52.4550707, 13.3567892 52.4552445, 13.3567625 52.4554441, 13.356732 52.4556438, 13.356648 52.4561038, 13.3565598 52.4565866, 13.3564447 52.4572126, 13.3564141 52.4573644, 13.3563462 52.4577866, 13.3563113 52.4581964, 13.3563068 52.4587501, 13.3563231 52.4590174, 13.3563383 52.4591688, 13.3563446 52.4592077, 13.356382 52.4594383, 13.356476 52.4598868, 13.3565117 52.4600241, 13.3565514 52.460156, 13.3565659 52.4602039, 13.356605 52.460321, 13.3566491 52.4604366, 13.3567047 52.4605743, 13.3567193 52.4606106, 13.3568815 52.4609734, 13.3571575 52.4615717, 13.3574653 52.4621851, 13.3576605 52.4625626, 13.3578398 52.4628937, 13.3578659 52.4629418)</data>
     </edge>
@@ -48048,7 +48048,7 @@
       <data key="d12">False</data>
       <data key="d13">True</data>
       <data key="d14">2180.6094829216286</data>
-      <data key="d10">['90', '100']</data>
+      <data key="d10">['100', '90']</data>
       <data key="d19">yes</data>
       <data key="d16">yes</data>
       <data key="d17">LINESTRING (13.3498831 52.4442996, 13.3502375 52.4446135, 13.3505918 52.4449357, 13.351541 52.4458113, 13.3518641 52.4461204, 13.3520507 52.4463075, 13.3521813 52.4464443, 13.3523068 52.4465825, 13.3525839 52.4469202, 13.3528993 52.4473453, 13.3531156 52.4476185, 13.3533402 52.4478907, 13.3534642 52.448042, 13.3536687 52.4482973, 13.3539934 52.4486859, 13.3541517 52.4488532, 13.3541819 52.4488867, 13.3543418 52.4490256, 13.3544813 52.4491856, 13.3546317 52.4493561, 13.3547693 52.4495286, 13.3548896 52.4496991, 13.3555148 52.4506922, 13.355807 52.4511722, 13.3559464 52.4514126, 13.3560784 52.4516557, 13.356197 52.451898, 13.3564137 52.4524177, 13.3565292 52.4527986, 13.3565766 52.4529701, 13.3566178 52.453185, 13.356643 52.4533798, 13.3566522 52.4534772, 13.3566588 52.4535746, 13.3566631 52.4537455, 13.3566597 52.4539154, 13.356653 52.4540431, 13.3566411 52.4541697, 13.3566245 52.4542972, 13.3566045 52.4544247, 13.3565698 52.4545947, 13.356535 52.4547636, 13.3564492 52.4551007, 13.3563159 52.4556025, 13.3562423 52.4558899, 13.3561738 52.4561762, 13.3561392 52.4563452, 13.3560964 52.4565972, 13.3560759 52.4567674, 13.3560607 52.4569366, 13.3560352 52.457275, 13.356027 52.4574251, 13.3559344 52.4587879, 13.35593 52.4590483, 13.355932 52.4591948, 13.3559357 52.4592454, 13.3559535 52.4594854, 13.3559883 52.4597141, 13.3560161 52.4598546, 13.3560389 52.459942, 13.3561018 52.460169, 13.3561752 52.4603752, 13.3561816 52.4603931, 13.3562756 52.4606306, 13.356297 52.460681, 13.3563792 52.4608569, 13.3565043 52.461092, 13.3567331 52.4614736, 13.3570334 52.4618967, 13.3575812 52.4626865, 13.3576097 52.4627277)</data>
@@ -48064,8 +48064,8 @@
     </edge>
     <edge source="322813770" target="1947339982" id="0">
       <data key="d9">[155187885, 23075533, 386821327, 155187888, 23075534, 155187890, 230957295, 230977080, 230977081, 464700828]</data>
-      <data key="d10">['50', '80', '60']</data>
-      <data key="d15">['6002', '6032']</data>
+      <data key="d10">['60', '50', '80']</data>
+      <data key="d15">['6032', '6002']</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
       <data key="d14">2098.743088389047</data>
@@ -48075,7 +48075,7 @@
     </edge>
     <edge source="322813770" target="540058072" id="0">
       <data key="d9">[44908524, 237947343, 44908527, 155187889, 291342460]</data>
-      <data key="d10">['80', '60']</data>
+      <data key="d10">['60', '80']</data>
       <data key="d15">6002</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -48104,7 +48104,7 @@
     </edge>
     <edge source="322813773" target="289678327" id="0">
       <data key="d9">[504503840, 237947334, 26436023, 421646138, 44908542]</data>
-      <data key="d10">['90', '70']</data>
+      <data key="d10">['70', '90']</data>
       <data key="d15">6020</data>
       <data key="d19">yes</data>
       <data key="d12">False</data>
@@ -48527,7 +48527,7 @@
     <edge source="323096956" target="11129010187" id="0">
       <data key="d9">[320189121, 1265865315]</data>
       <data key="d15">7359</data>
-      <data key="d11">['yard', 'siding']</data>
+      <data key="d11">['siding', 'yard']</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
       <data key="d14">50.231780138881625</data>
@@ -49715,7 +49715,7 @@
     </edge>
     <edge source="366363098" target="455311742" id="0">
       <data key="d9">[481695072, 898204996, 898204997, 136697957, 136697962, 941910731, 898204983, 898204984, 28863452, 588080159]</data>
-      <data key="d10">['90', '80', '60']</data>
+      <data key="d10">['90', '60', '80']</data>
       <data key="d15">['6109', '6153']</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -50021,7 +50021,7 @@
     <edge source="387769045" target="606936805" id="0">
       <data key="d9">[304952513, 304952514, 32762083, 32762084, 8049479, 1378623498, 4984627, 47699482]</data>
       <data key="d10">140</data>
-      <data key="d18">['Schnellfahrstrecke Oebisfelde–Spandau', 'SFS Oebisfelde–Spandau']</data>
+      <data key="d18">['SFS Oebisfelde–Spandau', 'Schnellfahrstrecke Oebisfelde–Spandau']</data>
       <data key="d15">6185</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -50276,7 +50276,7 @@
     </edge>
     <edge source="414029467" target="10764094463" id="0">
       <data key="d9">[27414915, 27414916, 27414910]</data>
-      <data key="d10">['100', '60']</data>
+      <data key="d10">['60', '100']</data>
       <data key="d11">yard</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -50316,7 +50316,7 @@
     <edge source="414029469" target="300951386" id="0">
       <data key="d9">[27414913, 35323402]</data>
       <data key="d16">yes</data>
-      <data key="d10">['100', '60']</data>
+      <data key="d10">['60', '100']</data>
       <data key="d15">6024</data>
       <data key="d12">False</data>
       <data key="d13">[False, True]</data>
@@ -51040,7 +51040,7 @@
     </edge>
     <edge source="414029861" target="1097102821" id="0">
       <data key="d9">[1241798499, 28826084]</data>
-      <data key="d10">['80', '60']</data>
+      <data key="d10">['60', '80']</data>
       <data key="d11">siding</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -51617,7 +51617,7 @@
     </edge>
     <edge source="427655074" target="521622645" id="0">
       <data key="d9">[1459929513, 320178186, 30041998, 251750391, 1468583548, 4689405, 4689406]</data>
-      <data key="d10">['100', '60']</data>
+      <data key="d10">['60', '100']</data>
       <data key="d15">6070</data>
       <data key="d12">False</data>
       <data key="d13">[False, True]</data>
@@ -51932,7 +51932,7 @@
     </edge>
     <edge source="427669907" target="427671285" id="0">
       <data key="d9">[550340843, 550340844, 36785392, 713891633, 1163081915]</data>
-      <data key="d10">['80', '60']</data>
+      <data key="d10">['60', '80']</data>
       <data key="d15">6006</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -52137,7 +52137,7 @@
     </edge>
     <edge source="427671285" target="427669907" id="0">
       <data key="d9">[550340843, 550340844, 36785392, 713891633, 1163081915]</data>
-      <data key="d10">['80', '60']</data>
+      <data key="d10">['60', '80']</data>
       <data key="d15">6006</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -52154,7 +52154,7 @@
     </edge>
     <edge source="428077252" target="430843375" id="0">
       <data key="d9">[37045499, 1265865302]</data>
-      <data key="d11">['yard', 'siding']</data>
+      <data key="d11">['siding', 'yard']</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
       <data key="d14">571.6410293646705</data>
@@ -52162,7 +52162,7 @@
     </edge>
     <edge source="428077252" target="430843376" id="0">
       <data key="d9">[1265865306, 320246378]</data>
-      <data key="d11">['yard', 'siding']</data>
+      <data key="d11">['siding', 'yard']</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
       <data key="d14">614.4308950798762</data>
@@ -52178,7 +52178,7 @@
     </edge>
     <edge source="428077253" target="428077254" id="0">
       <data key="d9">[1265865304, 320297253]</data>
-      <data key="d11">['yard', 'siding']</data>
+      <data key="d11">['siding', 'yard']</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
       <data key="d14">536.3309436880608</data>
@@ -52587,7 +52587,7 @@
     </edge>
     <edge source="430843307" target="581997051" id="0">
       <data key="d9">[1265865292, 319932894]</data>
-      <data key="d11">['yard', 'siding']</data>
+      <data key="d11">['siding', 'yard']</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
       <data key="d14">515.5037148889481</data>
@@ -52595,7 +52595,7 @@
     </edge>
     <edge source="430843307" target="581997051" id="1">
       <data key="d9">[1265865293, 45670975]</data>
-      <data key="d11">['yard', 'siding']</data>
+      <data key="d11">['siding', 'yard']</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
       <data key="d14">515.4638786882325</data>
@@ -52759,7 +52759,7 @@
     </edge>
     <edge source="430843330" target="430843375" id="0">
       <data key="d9">[37045500, 1265865301]</data>
-      <data key="d11">['yard', 'siding']</data>
+      <data key="d11">['siding', 'yard']</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
       <data key="d14">528.6576808541047</data>
@@ -52895,7 +52895,7 @@
     </edge>
     <edge source="430843380" target="310520894" id="0">
       <data key="d9">[320189131, 1265865277]</data>
-      <data key="d11">['yard', 'siding']</data>
+      <data key="d11">['siding', 'yard']</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
       <data key="d14">448.5681172523298</data>
@@ -52903,7 +52903,7 @@
     </edge>
     <edge source="430843380" target="581985141" id="0">
       <data key="d9">[37045501, 1265865278]</data>
-      <data key="d11">['yard', 'siding']</data>
+      <data key="d11">['siding', 'yard']</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
       <data key="d14">422.9902343172443</data>
@@ -53054,7 +53054,7 @@
     </edge>
     <edge source="431286579" target="4106214542" id="0">
       <data key="d9">[1238672192, 1238672193, 805982872, 4702872, 805982873, 4702874, 4702875, 1238672191]</data>
-      <data key="d10">['40', '60']</data>
+      <data key="d10">['60', '40']</data>
       <data key="d15">6143</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -54179,7 +54179,7 @@
     </edge>
     <edge source="434133418" target="434133443" id="0">
       <data key="d9">[1015954104, 4741924]</data>
-      <data key="d10">['80', '60']</data>
+      <data key="d10">['60', '80']</data>
       <data key="d15">6152</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -54198,7 +54198,7 @@
     </edge>
     <edge source="434133443" target="434133418" id="0">
       <data key="d9">[1015954104, 4741924]</data>
-      <data key="d10">['80', '60']</data>
+      <data key="d10">['60', '80']</data>
       <data key="d15">6152</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -55951,7 +55951,7 @@
     </edge>
     <edge source="446301550" target="446301554" id="0">
       <data key="d9">[200229908, 1459625526]</data>
-      <data key="d10">['100', '60']</data>
+      <data key="d10">['60', '100']</data>
       <data key="d11">siding</data>
       <data key="d19">yes</data>
       <data key="d12">False</data>
@@ -56000,7 +56000,7 @@
     </edge>
     <edge source="446301554" target="446301550" id="0">
       <data key="d9">[200229908, 1459625526]</data>
-      <data key="d10">['100', '60']</data>
+      <data key="d10">['60', '100']</data>
       <data key="d11">siding</data>
       <data key="d19">yes</data>
       <data key="d12">False</data>
@@ -56236,7 +56236,7 @@
     </edge>
     <edge source="447788107" target="28096694" id="0">
       <data key="d9">[482129449, 4585099, 4585100, 260992229]</data>
-      <data key="d10">['40', '60']</data>
+      <data key="d10">['60', '40']</data>
       <data key="d18">Tempelhofer Kurve</data>
       <data key="d15">6172</data>
       <data key="d12">False</data>
@@ -56266,7 +56266,7 @@
     </edge>
     <edge source="447938652" target="604659329" id="0">
       <data key="d9">[1023966242, 532685284, 532685285, 4500167, 290736428, 375935983, 4525935, 4525936, 4525941, 1023966238]</data>
-      <data key="d10">['90', '100', '70']</data>
+      <data key="d10">['100', '70', '90']</data>
       <data key="d15">6020</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -56462,7 +56462,7 @@
     </edge>
     <edge source="455311742" target="366363098" id="0">
       <data key="d9">[481695072, 898204996, 136697957, 898204997, 136697962, 941910731, 898204983, 898204984, 28863452, 588080159]</data>
-      <data key="d10">['90', '80', '60']</data>
+      <data key="d10">['80', '60', '90']</data>
       <data key="d15">['6109', '6153']</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -56894,8 +56894,8 @@
     </edge>
     <edge source="476036840" target="2387626663" id="0">
       <data key="d9">[154456585, 159857295, 1125072787, 223236895, 24165792, 24165796, 24165803, 24165804, 446633274, 421179330, 13252426, 24165843, 24165844, 22768981, 22768982, 23037028, 22769000, 200143854, 24181361, 200143858, 24165750, 24165754]</data>
-      <data key="d10">['100', '60']</data>
-      <data key="d15">['6142', '6170', '6164']</data>
+      <data key="d10">['60', '100']</data>
+      <data key="d15">['6142', '6164', '6170']</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
       <data key="d14">4469.781024954872</data>
@@ -57010,13 +57010,13 @@
     </edge>
     <edge source="493714942" target="10709897015" id="0">
       <data key="d9">[26477120, 26491105, 136703812, 238452719, 1348263189, 503475928, 494022014, 26477119]</data>
-      <data key="d10">['100', '60']</data>
-      <data key="d15">['6034', '6035']</data>
+      <data key="d10">['60', '100']</data>
+      <data key="d15">['6035', '6034']</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
       <data key="d14">2062.785628019944</data>
       <data key="d16">yes</data>
-      <data key="d18">['Yorckbrücke 8', 'Anhalter Vorortbahn']</data>
+      <data key="d18">['Anhalter Vorortbahn', 'Yorckbrücke 8']</data>
       <data key="d19">yes</data>
       <data key="d17">LINESTRING (13.3702191 52.4847489, 13.3706432 52.4854746, 13.3706457 52.4854789, 13.3706709 52.4855217, 13.3710173 52.486122, 13.3710295 52.4861393, 13.3711548 52.4863738, 13.3712755 52.4866283, 13.3713902 52.4869285, 13.371485 52.4872097, 13.371492 52.4872304, 13.3717 52.4878535, 13.3718206 52.4882222, 13.3719343 52.4885901, 13.3719833 52.4888292, 13.3720058 52.4891137, 13.3720157 52.4893496, 13.3720367 52.4897034, 13.3720817 52.4903908, 13.3720914 52.4905601, 13.3721034 52.4907247, 13.3721163 52.4909079, 13.3721268 52.491033, 13.3721534 52.491351, 13.3722093 52.4920179, 13.3722112 52.4920449, 13.3722124 52.4920642, 13.3722303 52.4922642, 13.3722526 52.4925374, 13.3723122 52.4933474, 13.3723253 52.4939811, 13.372336 52.4941506, 13.3723488 52.4943534, 13.3723877 52.4946099, 13.3724653 52.4949565, 13.3725536 52.4951989, 13.3725968 52.4953175, 13.3729759 52.4960009, 13.3734212 52.4966122, 13.3739095 52.4971627, 13.3741825 52.4974005, 13.3744922 52.4976159, 13.3750751 52.4979895, 13.3754038 52.4981681, 13.3757676 52.4983421, 13.3768724 52.4987727, 13.3779448 52.4992211, 13.3782824 52.4993963, 13.3786615 52.4996339, 13.3790585 52.4999259, 13.3795409 52.5004137, 13.3801538 52.5013596)</data>
     </edge>
@@ -57139,7 +57139,7 @@
     </edge>
     <edge source="505202893" target="246767347" id="0">
       <data key="d9">[22945414, 22945415, 1459929515, 5116494, 5116495, 152177650, 152177653, 152177657]</data>
-      <data key="d10">['80', '60']</data>
+      <data key="d10">['60', '80']</data>
       <data key="d15">6147</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -57355,7 +57355,7 @@
     </edge>
     <edge source="521622645" target="427655074" id="0">
       <data key="d9">[1459929513, 320178186, 30041998, 251750391, 1468583548, 4689405, 4689406]</data>
-      <data key="d10">['100', '60']</data>
+      <data key="d10">['60', '100']</data>
       <data key="d15">6070</data>
       <data key="d12">False</data>
       <data key="d13">[False, True]</data>
@@ -58144,7 +58144,7 @@
     </edge>
     <edge source="527860838" target="527860817" id="1">
       <data key="d9">[291235321, 363581645]</data>
-      <data key="d10">['50', '40']</data>
+      <data key="d10">['40', '50']</data>
       <data key="d11">yard</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -58230,7 +58230,7 @@
     </edge>
     <edge source="527860851" target="274803506" id="0">
       <data key="d9">[298691970, 23714886, 453841550, 25817242, 28736283]</data>
-      <data key="d10">['90', '160']</data>
+      <data key="d10">['160', '90']</data>
       <data key="d15">6107</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -58798,7 +58798,7 @@
     </edge>
     <edge source="540027796" target="354679167" id="0">
       <data key="d9">[7626147, 26066308, 4490213, 7626150, 26066309, 24867657, 868033451, 7738670, 7738672, 7626674, 7626678, 5883640, 5883641, 12338106, 8789627, 8789628]</data>
-      <data key="d10">['120', '100']</data>
+      <data key="d10">['100', '120']</data>
       <data key="d15">6118</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -58844,7 +58844,7 @@
     </edge>
     <edge source="540027798" target="603659255" id="0">
       <data key="d9">[12301440, 756243328, 810776580, 810776582, 5363319, 23198612, 47365658, 208051227, 12301439, 4495782, 12338107, 12338109, 12301431, 438533060, 438533062, 4434431, 810557141, 23187561, 401050612, 12301429, 401050613, 21090039, 5363318, 756243327]</data>
-      <data key="d10">['100', '140', '110']</data>
+      <data key="d10">['140', '100', '110']</data>
       <data key="d15">6109</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -58923,7 +58923,7 @@
     </edge>
     <edge source="540027806" target="603659250" id="0">
       <data key="d9">[810776579, 810776581, 23198611, 4543383, 208051233, 142142497, 438533061, 7628614, 438533063, 15564876, 15564877, 4490196, 4490197, 810557142, 23147991, 23147992, 4475867, 4475868, 4475869, 4475870, 23187562, 401050614, 401050615, 756243325, 756243326]</data>
-      <data key="d10">['100', '140', '110']</data>
+      <data key="d10">['140', '100', '110']</data>
       <data key="d15">6109</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -59150,7 +59150,7 @@
     </edge>
     <edge source="540058072" target="322813770" id="0">
       <data key="d9">[44908524, 237947343, 44908527, 155187889, 291342460]</data>
-      <data key="d10">['80', '60']</data>
+      <data key="d10">['60', '80']</data>
       <data key="d15">6002</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -59169,7 +59169,7 @@
     </edge>
     <edge source="540058072" target="567183191" id="0">
       <data key="d9">[942372146, 423001851, 44699861]</data>
-      <data key="d10">['70', '60']</data>
+      <data key="d10">['60', '70']</data>
       <data key="d15">6030</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -59849,7 +59849,7 @@
     </edge>
     <edge source="550675056" target="581916705" id="0">
       <data key="d9">[1156264160, 496500391]</data>
-      <data key="d10">['50', '60']</data>
+      <data key="d10">['60', '50']</data>
       <data key="d15">6139</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -60314,7 +60314,7 @@
     </edge>
     <edge source="557838636" target="4174670471" id="0">
       <data key="d9">[172093540, 464757323, 438957596, 464757334]</data>
-      <data key="d10">['70', '60']</data>
+      <data key="d10">['60', '70']</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
       <data key="d14">2715.1615206378574</data>
@@ -60354,7 +60354,7 @@
     </edge>
     <edge source="557840307" target="3951294982" id="0">
       <data key="d9">[438957593, 464757330, 464757339, 391866692]</data>
-      <data key="d10">['70', '60']</data>
+      <data key="d10">['60', '70']</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
       <data key="d14">2726.6382385174106</data>
@@ -60460,7 +60460,7 @@
     </edge>
     <edge source="558842775" target="283449943" id="0">
       <data key="d9">[27351297, 10369591, 1236950982, 1236950983, 25982730, 1295392716, 1295392717, 505167442, 1295392727]</data>
-      <data key="d10">['100', '70', '80']</data>
+      <data key="d10">['70', '100', '80']</data>
       <data key="d15">['6033', '6032']</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -60514,7 +60514,7 @@
     </edge>
     <edge source="558842780" target="322633796" id="0">
       <data key="d9">[26477249, 26477250, 199340313, 1236950984, 1348263190, 273174487, 1295392729, 1295392730, 26477243, 273174492, 26477246]</data>
-      <data key="d10">['40', '60', '80', '50']</data>
+      <data key="d10">['60', '50', '40', '80']</data>
       <data key="d15">6032</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -60541,7 +60541,7 @@
     </edge>
     <edge source="558842783" target="10709897016" id="0">
       <data key="d9">[494022018, 13860451, 4756357, 1295392731, 1236950983, 4756360, 4756358, 273174488, 1295392728, 4525882, 273174491]</data>
-      <data key="d10">['60', '80', '50']</data>
+      <data key="d10">['60', '50', '80']</data>
       <data key="d15">6032</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -61270,7 +61270,7 @@
     </edge>
     <edge source="563256567" target="248077377" id="0">
       <data key="d9">[1274833344, 23010024, 23010025, 23010026, 23010027, 23010030, 23010031, 864547283]</data>
-      <data key="d10">['120', '100']</data>
+      <data key="d10">['100', '120']</data>
       <data key="d18">Berliner Außenring</data>
       <data key="d15">6126</data>
       <data key="d12">False</data>
@@ -61467,7 +61467,7 @@
       <data key="d10">30</data>
       <data key="d18">U3</data>
       <data key="d15">U3</data>
-      <data key="d19">['no', 'yes']</data>
+      <data key="d19">['yes', 'no']</data>
       <data key="d12">False</data>
       <data key="d13">[False, True]</data>
       <data key="d14">350.864570490274</data>
@@ -61498,9 +61498,9 @@
     <edge source="565588217" target="4604134878" id="0">
       <data key="d9">[110389122, 387329044, 394563357, 44525342, 528139677, 199544357, 374930733, 199544368, 110389118, 110553274, 110553276, 32013757, 392799679, 110553281, 179233237, 179233239, 179233241, 179233243, 434362588, 530212718, 110389115, 598541436, 598541437, 32013694]</data>
       <data key="d10">60</data>
-      <data key="d18">['U3', 'U-Onkel-Toms-Hütte - U3']</data>
+      <data key="d18">['U-Onkel-Toms-Hütte - U3', 'U3']</data>
       <data key="d15">U3</data>
-      <data key="d19">['no', 'yes']</data>
+      <data key="d19">['yes', 'no']</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
       <data key="d14">10625.443253004229</data>
@@ -62811,7 +62811,7 @@
     </edge>
     <edge source="567183133" target="26124404" id="0">
       <data key="d9">[1266965617, 4740770, 44908532, 44908530]</data>
-      <data key="d10">['80', '60']</data>
+      <data key="d10">['60', '80']</data>
       <data key="d18">Berliner Ringbahn</data>
       <data key="d15">6170</data>
       <data key="d12">False</data>
@@ -62853,7 +62853,7 @@
     </edge>
     <edge source="567183153" target="11628657104" id="0">
       <data key="d9">[44908549, 44908551, 116355015, 237947348, 291342456, 421646137, 4740764]</data>
-      <data key="d10">['80', '60']</data>
+      <data key="d10">['60', '80']</data>
       <data key="d15">6002</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -62872,7 +62872,7 @@
     </edge>
     <edge source="567183153" target="567183193" id="0">
       <data key="d9">[942372145, 44699860]</data>
-      <data key="d10">['70', '60']</data>
+      <data key="d10">['60', '70']</data>
       <data key="d15">6030</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -62970,7 +62970,7 @@
     </edge>
     <edge source="567183191" target="540058072" id="0">
       <data key="d9">[942372146, 423001851, 44699861]</data>
-      <data key="d10">['70', '60']</data>
+      <data key="d10">['60', '70']</data>
       <data key="d15">6030</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -62997,7 +62997,7 @@
     </edge>
     <edge source="567183193" target="567183153" id="0">
       <data key="d9">[942372145, 44699860]</data>
-      <data key="d10">['70', '60']</data>
+      <data key="d10">['60', '70']</data>
       <data key="d15">6030</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -63066,7 +63066,7 @@
       <data key="d12">False</data>
       <data key="d13">False</data>
       <data key="d14">1024.9792162292897</data>
-      <data key="d10">['70', '60']</data>
+      <data key="d10">['60', '70']</data>
       <data key="d19">yes</data>
       <data key="d17">LINESTRING (13.3982089 52.5529413, 13.3982462 52.5527613, 13.3982724 52.5526398, 13.3983203 52.5522935, 13.3983927 52.5520091, 13.3985882 52.5515721, 13.3987126 52.5513331, 13.3988621 52.5511058, 13.3991696 52.5507508, 13.3992339 52.5506871, 13.3992715 52.5506503, 13.3993761 52.5505559, 13.3995539 52.5504036, 13.3997717 52.5502518, 13.4000051 52.5501058, 13.4002666 52.5499778, 13.4005667 52.5498582, 13.4008527 52.5497657, 13.4011686 52.5496747, 13.4015219 52.5495986, 13.401891 52.5495291, 13.4023405 52.5494634, 13.4026243 52.549442, 13.4029209 52.5494303, 13.4033297 52.5494404, 13.4037102 52.5494539, 13.4054229 52.5495379, 13.4060151 52.5495686, 13.4078669 52.5496658, 13.4084437 52.549693, 13.4088183 52.5497038, 13.4091067 52.5497069, 13.4094373 52.5497036, 13.4097683 52.5496941)</data>
     </edge>
@@ -63098,7 +63098,7 @@
     </edge>
     <edge source="567202609" target="366040425" id="0">
       <data key="d9">[44701816, 664829490]</data>
-      <data key="d10">['40', '60']</data>
+      <data key="d10">['60', '40']</data>
       <data key="d15">6170</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -63372,7 +63372,7 @@
     <edge source="567465335" target="290347038" id="0">
       <data key="d9">[136703810, 355286470, 27681608, 295391382, 44732152]</data>
       <data key="d16">yes</data>
-      <data key="d10">['120', '140']</data>
+      <data key="d10">['140', '120']</data>
       <data key="d15">6171</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -63958,7 +63958,7 @@
     </edge>
     <edge source="575051695" target="575058049" id="0">
       <data key="d9">[290324136, 45277567]</data>
-      <data key="d11">['yard', 'crossover']</data>
+      <data key="d11">['crossover', 'yard']</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
       <data key="d14">70.28936184283047</data>
@@ -64414,7 +64414,7 @@
     </edge>
     <edge source="575058049" target="575051695" id="0">
       <data key="d9">[290324136, 45277567]</data>
-      <data key="d11">['yard', 'crossover']</data>
+      <data key="d11">['crossover', 'yard']</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
       <data key="d14">70.28936184283047</data>
@@ -65564,7 +65564,7 @@
     </edge>
     <edge source="581903367" target="433557527" id="0">
       <data key="d9">[1156264162, 28953054, 320398602, 28243473, 28243475, 45662296, 45661918, 45661919]</data>
-      <data key="d10">['50', '60']</data>
+      <data key="d10">['60', '50']</data>
       <data key="d15">6140</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -65611,7 +65611,7 @@
     </edge>
     <edge source="581903368" target="30209497" id="0">
       <data key="d9">[828713123, 383960613, 375331591, 383960616, 1264999370, 1264999371, 1125949324, 375331598, 45662294, 446633271, 45662297, 43011610, 1290620797, 4741502]</data>
-      <data key="d10">['70', '60']</data>
+      <data key="d10">['60', '70']</data>
       <data key="d15">6170</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -65622,7 +65622,7 @@
     </edge>
     <edge source="581903370" target="29804090" id="0">
       <data key="d9">[320398663, 28243471, 28243472, 28199925, 28199926, 28200156, 28200157]</data>
-      <data key="d10">['50', '60']</data>
+      <data key="d10">['60', '50']</data>
       <data key="d15">6140</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -66346,7 +66346,7 @@
     </edge>
     <edge source="581997061" target="7985865315" id="0">
       <data key="d9">[319932904, 1265865294]</data>
-      <data key="d11">['yard', 'siding']</data>
+      <data key="d11">['siding', 'yard']</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
       <data key="d14">497.4238453829769</data>
@@ -66354,7 +66354,7 @@
     </edge>
     <edge source="581997061" target="7985865315" id="1">
       <data key="d9">[45670976, 1265865295]</data>
-      <data key="d11">['yard', 'siding']</data>
+      <data key="d11">['siding', 'yard']</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
       <data key="d14">497.74176193607394</data>
@@ -66362,7 +66362,7 @@
     </edge>
     <edge source="581997141" target="7988786802" id="0">
       <data key="d9">[4742402, 45670979]</data>
-      <data key="d11">['yard', 'siding']</data>
+      <data key="d11">['siding', 'yard']</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
       <data key="d14">484.76186873745536</data>
@@ -66370,7 +66370,7 @@
     </edge>
     <edge source="581997141" target="581997059" id="0">
       <data key="d9">[1265865289, 45671794]</data>
-      <data key="d11">['yard', 'siding']</data>
+      <data key="d11">['siding', 'yard']</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
       <data key="d14">498.94357128299873</data>
@@ -66457,7 +66457,7 @@
     </edge>
     <edge source="582004688" target="581997046" id="0">
       <data key="d9">[1265865288, 45671795, 320220981]</data>
-      <data key="d11">['yard', 'siding']</data>
+      <data key="d11">['siding', 'yard']</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
       <data key="d14">447.72189443296514</data>
@@ -67377,7 +67377,7 @@
     </edge>
     <edge source="602906820" target="3228632162" id="0">
       <data key="d9">[29344546, 29344547, 29344548, 29344549, 29344550, 47346054, 25974953, 25974954, 1271016620, 1271303565, 23084477]</data>
-      <data key="d10">['10', '40']</data>
+      <data key="d10">['40', '10']</data>
       <data key="d18">Kremmener Bahn</data>
       <data key="d15">6182</data>
       <data key="d12">False</data>
@@ -67837,7 +67837,7 @@
     </edge>
     <edge source="603659250" target="540027806" id="0">
       <data key="d9">[810776579, 810776581, 23198611, 4543383, 142142497, 208051233, 438533061, 7628614, 438533063, 15564876, 15564877, 4490196, 4490197, 810557142, 23147991, 23147992, 4475867, 4475868, 4475869, 4475870, 23187562, 401050614, 401050615, 756243325, 756243326]</data>
-      <data key="d10">['100', '140', '110']</data>
+      <data key="d10">['140', '100', '110']</data>
       <data key="d15">6109</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -67958,7 +67958,7 @@
     </edge>
     <edge source="603659255" target="540027798" id="0">
       <data key="d9">[756243328, 12301440, 810776580, 810776582, 5363319, 23198612, 47365658, 208051227, 12301439, 4495782, 12338107, 12338109, 438533060, 438533062, 21090039, 810557141, 756243327, 23187561, 401050612, 401050613, 5363318, 12301431, 12301429, 4434431]</data>
-      <data key="d10">['100', '140', '110']</data>
+      <data key="d10">['140', '100', '110']</data>
       <data key="d15">6109</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -68077,7 +68077,7 @@
     </edge>
     <edge source="604659329" target="447938652" id="0">
       <data key="d9">[1023966242, 532685284, 532685285, 4500167, 290736428, 375935983, 4525936, 4525935, 4525941, 1023966238]</data>
-      <data key="d10">['90', '100', '70']</data>
+      <data key="d10">['70', '100', '90']</data>
       <data key="d15">6020</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -68204,7 +68204,7 @@
       <data key="d9">[32762089, 9933821, 32762087]</data>
       <data key="d16">yes</data>
       <data key="d10">140</data>
-      <data key="d18">['Schnellfahrstrecke Oebisfelde–Spandau', 'SFS Oebisfelde–Spandau']</data>
+      <data key="d18">['SFS Oebisfelde–Spandau', 'Schnellfahrstrecke Oebisfelde–Spandau']</data>
       <data key="d15">6185</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -68225,7 +68225,7 @@
       <data key="d9">[304952513, 304952514, 32762083, 32762084, 8049479, 1378623498, 4984627, 47699482]</data>
       <data key="d16">yes</data>
       <data key="d10">140</data>
-      <data key="d18">['Schnellfahrstrecke Oebisfelde–Spandau', 'SFS Oebisfelde–Spandau']</data>
+      <data key="d18">['SFS Oebisfelde–Spandau', 'Schnellfahrstrecke Oebisfelde–Spandau']</data>
       <data key="d15">6185</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -69079,7 +69079,7 @@
     <edge source="620877793" target="936708796" id="0">
       <data key="d9">[536259488, 1156264161, 320398719]</data>
       <data key="d10">60</data>
-      <data key="d15">['6139', '6078']</data>
+      <data key="d15">['6078', '6139']</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
       <data key="d14">467.51231164706246</data>
@@ -69276,7 +69276,7 @@
     </edge>
     <edge source="640051957" target="29857249" id="0">
       <data key="d9">[868080571, 320178173]</data>
-      <data key="d10">['80', '60']</data>
+      <data key="d10">['60', '80']</data>
       <data key="d15">6069</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -70547,7 +70547,7 @@
     </edge>
     <edge source="682064371" target="682064464" id="0">
       <data key="d9">[54063562, 533693947, 533693948, 1226226775]</data>
-      <data key="d15">['410', '411', '408']</data>
+      <data key="d15">['411', '410', '408']</data>
       <data key="d11">yard</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -70615,7 +70615,7 @@
     </edge>
     <edge source="682064464" target="682064371" id="0">
       <data key="d9">[54063562, 533693947, 533693948, 1226226775]</data>
-      <data key="d15">['410', '411', '408']</data>
+      <data key="d15">['411', '410', '408']</data>
       <data key="d11">yard</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -70853,7 +70853,7 @@
     <edge source="715739427" target="254087656" id="0">
       <data key="d9">[37427018, 57727693, 37427023, 37427024, 37427029, 37427030, 207993049, 47365659, 57728638]</data>
       <data key="d16">['yes', 'viaduct']</data>
-      <data key="d10">['100', '60']</data>
+      <data key="d10">['60', '100']</data>
       <data key="d15">6109</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -70883,7 +70883,7 @@
     <edge source="715739440" target="254087657" id="0">
       <data key="d9">[57728646, 37427017, 37427021, 37427022, 37427027, 37427028, 57727704, 207993052]</data>
       <data key="d16">['viaduct', 'yes']</data>
-      <data key="d10">['100', '60']</data>
+      <data key="d10">['60', '100']</data>
       <data key="d15">6109</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -72038,7 +72038,7 @@
       <data key="d10">60</data>
       <data key="d18">U3</data>
       <data key="d15">U3</data>
-      <data key="d19">['no', 'yes']</data>
+      <data key="d19">['yes', 'no']</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
       <data key="d14">10701.235532900804</data>
@@ -73218,7 +73218,7 @@
     </edge>
     <edge source="919755021" target="919755186" id="0">
       <data key="d9">[290131717, 4463528, 1295392718, 1295392724, 4463513]</data>
-      <data key="d10">['30', '100', '80', '60']</data>
+      <data key="d10">['30', '60', '100', '80']</data>
       <data key="d15">6033</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -73409,7 +73409,7 @@
     </edge>
     <edge source="919755186" target="919755021" id="0">
       <data key="d9">[290131717, 4463528, 1295392718, 1295392724, 4463513]</data>
-      <data key="d10">['30', '100', '80', '60']</data>
+      <data key="d10">['30', '60', '100', '80']</data>
       <data key="d15">6033</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -73803,7 +73803,7 @@
     <edge source="936708796" target="620877793" id="0">
       <data key="d9">[536259488, 1156264161, 320398719]</data>
       <data key="d10">60</data>
-      <data key="d15">['6139', '6078']</data>
+      <data key="d15">['6078', '6139']</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
       <data key="d14">467.5123116470625</data>
@@ -74050,7 +74050,7 @@
       <data key="d9">[392498664, 250527580, 467533743]</data>
       <data key="d10">120</data>
       <data key="d18">Berliner Außenring</data>
-      <data key="d15">['6067', '6087']</data>
+      <data key="d15">['6087', '6067']</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
       <data key="d14">1547.4426584932814</data>
@@ -74579,7 +74579,7 @@
     </edge>
     <edge source="1097102821" target="414029861" id="0">
       <data key="d9">[1241798499, 28826084]</data>
-      <data key="d10">['80', '60']</data>
+      <data key="d10">['60', '80']</data>
       <data key="d11">siding</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -75233,7 +75233,7 @@
     </edge>
     <edge source="1334995565" target="320245065" id="0">
       <data key="d9">[26144356, 26144357, 185352459, 1239408508, 447526430]</data>
-      <data key="d10">['90', '60']</data>
+      <data key="d10">['60', '90']</data>
       <data key="d15">6005</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -75572,7 +75572,7 @@
     </edge>
     <edge source="1335777891" target="9133483012" id="0">
       <data key="d9">[118823816, 1332742577, 118823817, 118823819]</data>
-      <data key="d10">['120', '160']</data>
+      <data key="d10">['160', '120']</data>
       <data key="d18">Stettiner Bahn</data>
       <data key="d15">6081</data>
       <data key="d12">False</data>
@@ -75610,7 +75610,7 @@
     </edge>
     <edge source="1335777897" target="9133483011" id="0">
       <data key="d9">[367204240, 1332742576, 15792514, 15792590]</data>
-      <data key="d10">['120', '160']</data>
+      <data key="d10">['160', '120']</data>
       <data key="d18">Stettiner Bahn</data>
       <data key="d15">6081</data>
       <data key="d12">False</data>
@@ -76178,7 +76178,7 @@
     </edge>
     <edge source="1359442528" target="29794223" id="0">
       <data key="d9">[121421962, 1125949326, 1125949328, 1155847955, 1155847956, 1155847957, 463437334, 1155847959, 28243480, 28243481, 375331614, 375331627, 427231835, 8096475, 8096476, 427231838, 8096478, 8096479, 427231836, 4741219, 4741220, 1125299946]</data>
-      <data key="d10">['70', '80', '50']</data>
+      <data key="d10">['70', '50', '80']</data>
       <data key="d15">6020</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -76215,7 +76215,7 @@
     </edge>
     <edge source="1359442546" target="1409385367" id="0">
       <data key="d9">[121421962, 709592362, 154456590, 127025010, 127025011, 427231834]</data>
-      <data key="d10">['80', '60']</data>
+      <data key="d10">['60', '80']</data>
       <data key="d15">6020</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -76233,7 +76233,7 @@
     </edge>
     <edge source="1359442556" target="2256000750" id="0">
       <data key="d9">[121421955, 28813703, 28813800, 28813865, 28813866, 28813704, 1125949325, 383960622, 1125949327, 1125949329, 375331633, 10307635, 28243476, 1155847958, 1237407031, 375331609]</data>
-      <data key="d10">['70', '80', '50']</data>
+      <data key="d10">['70', '50', '80']</data>
       <data key="d15">6020</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -76268,7 +76268,7 @@
     </edge>
     <edge source="1359442575" target="6222833126" id="0">
       <data key="d9">[121421955, 711114629, 711114630, 127025009, 127025012, 154456628]</data>
-      <data key="d10">['80', '60']</data>
+      <data key="d10">['60', '80']</data>
       <data key="d15">6020</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -76361,7 +76361,7 @@
     <edge source="1409385367" target="1359442546" id="0">
       <data key="d9">[709592362, 121421962, 154456590, 127025010, 127025011, 427231834]</data>
       <data key="d16">yes</data>
-      <data key="d10">['80', '60']</data>
+      <data key="d10">['60', '80']</data>
       <data key="d15">6020</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -76969,7 +76969,7 @@
     </edge>
     <edge source="1555748146" target="2022876876" id="0">
       <data key="d9">[1035209474, 142142494]</data>
-      <data key="d10">['90', '80']</data>
+      <data key="d10">['80', '90']</data>
       <data key="d15">6134</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -77004,7 +77004,7 @@
     </edge>
     <edge source="1562575857" target="249195434" id="0">
       <data key="d9">[52704771, 1239408526, 1459551543]</data>
-      <data key="d10">['80', '50']</data>
+      <data key="d10">['50', '80']</data>
       <data key="d15">6030</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -77186,7 +77186,7 @@
     <edge source="1666530514" target="606936805" id="0">
       <data key="d9">[32762089, 9933821, 32762087]</data>
       <data key="d10">140</data>
-      <data key="d18">['Schnellfahrstrecke Oebisfelde–Spandau', 'SFS Oebisfelde–Spandau']</data>
+      <data key="d18">['SFS Oebisfelde–Spandau', 'Schnellfahrstrecke Oebisfelde–Spandau']</data>
       <data key="d15">6185</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -77254,7 +77254,7 @@
     </edge>
     <edge source="1719178844" target="7988810609" id="0">
       <data key="d9">[42126338, 174512811, 719295161, 719295163, 175440860, 175440862]</data>
-      <data key="d10">['100', '70', '80']</data>
+      <data key="d10">['70', '100', '80']</data>
       <data key="d15">6004</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -77273,7 +77273,7 @@
     </edge>
     <edge source="1719178844" target="319241572" id="0">
       <data key="d9">[174513546, 174513549, 29028560, 29028561, 1251391859, 292306132, 74859252]</data>
-      <data key="d10">['100', '70']</data>
+      <data key="d10">['70', '100']</data>
       <data key="d15">6004</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -78169,8 +78169,8 @@
     </edge>
     <edge source="1947339982" target="322813770" id="0">
       <data key="d9">[23075533, 23075534, 230957295, 386821327, 155187888, 155187890, 155187885, 230977080, 230977081, 464700828]</data>
-      <data key="d10">['60', '80', '50']</data>
-      <data key="d15">['6002', '6032']</data>
+      <data key="d10">['60', '50', '80']</data>
+      <data key="d15">['6032', '6002']</data>
       <data key="d19">yes</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -78493,8 +78493,8 @@
     </edge>
     <edge source="1947340054" target="11628657104" id="0">
       <data key="d9">[230977079, 1252158663, 777688873, 23087691, 23085835, 23087694, 4603315, 503475927, 291342456, 24031005, 464700829, 24031007]</data>
-      <data key="d10">['60', '80', '50']</data>
-      <data key="d15">['6002', '6032']</data>
+      <data key="d10">['60', '50', '80']</data>
+      <data key="d15">['6032', '6002']</data>
       <data key="d19">yes</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -78602,7 +78602,7 @@
     </edge>
     <edge source="2021800342" target="2021800354" id="0">
       <data key="d9">[421230285, 739812070, 191591511]</data>
-      <data key="d10">['80', '60']</data>
+      <data key="d10">['60', '80']</data>
       <data key="d11">siding</data>
       <data key="d19">yes</data>
       <data key="d12">False</data>
@@ -78641,7 +78641,7 @@
     </edge>
     <edge source="2021800354" target="2021800342" id="0">
       <data key="d9">[421230285, 739812070, 191591511]</data>
-      <data key="d10">['80', '60']</data>
+      <data key="d10">['60', '80']</data>
       <data key="d11">siding</data>
       <data key="d19">yes</data>
       <data key="d12">False</data>
@@ -79569,7 +79569,7 @@
     </edge>
     <edge source="2071462077" target="251542478" id="0">
       <data key="d9">[329890071, 321022749, 1329662750, 1023966240, 44733097, 376818612, 448975412, 4756283, 32546756, 4500165, 32546757, 32546935, 32546936, 21809117, 19744871, 19744872, 25642350, 25642351, 868036082, 4525938, 4525939, 4525940, 32546932, 32548087, 32546934, 25982201, 25982202, 32546933]</data>
-      <data key="d10">['100', '60', '40']</data>
+      <data key="d10">['60', '40', '100']</data>
       <data key="d15">6170</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -79588,7 +79588,7 @@
     </edge>
     <edge source="2071462091" target="251542477" id="0">
       <data key="d9">[25982208, 25982209, 25982210, 531237649, 27734931, 27734932, 329890073, 1329662748, 1023966239, 1023966241, 303904321, 4500166, 24862035, 4525944, 24862036, 24295382, 24295383, 4407774, 27730402, 27730403, 868036081, 32546931, 32548088, 4525945, 32548091, 25982205, 25982206, 25982207]</data>
-      <data key="d10">['100', '60', '40']</data>
+      <data key="d10">['60', '40', '100']</data>
       <data key="d15">6170</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -79675,7 +79675,7 @@
       <data key="d12">False</data>
       <data key="d13">True</data>
       <data key="d14">666.1245982088193</data>
-      <data key="d10">['80', '60']</data>
+      <data key="d10">['60', '80']</data>
       <data key="d16">yes</data>
       <data key="d17">LINESTRING (13.3737949 52.4713783, 13.3724166 52.4713875, 13.3723948 52.4713877, 13.3717593 52.4713941, 13.3714218 52.471411, 13.3712429 52.4714262, 13.3710845 52.4714431, 13.370914 52.4714655, 13.3707003 52.4714995, 13.3704769 52.4715407, 13.3701611 52.4716123, 13.3698503 52.4716911, 13.3695349 52.4717881, 13.3695237 52.4717916, 13.3692143 52.471905, 13.3688852 52.4720474, 13.3686756 52.4721454, 13.3684654 52.4722532, 13.3681562 52.4724227, 13.3679728 52.4725328, 13.3678047 52.4726382, 13.3676158 52.4727632, 13.3673946 52.4729235, 13.3672419 52.4730401, 13.3671256 52.4731357, 13.3669607 52.4732761, 13.3668221 52.4734013, 13.3667086 52.4735115, 13.3665834 52.473639, 13.3664967 52.4737318, 13.3664055 52.4738342, 13.3662941 52.4739713, 13.3660605 52.474283)</data>
     </edge>
@@ -79783,7 +79783,7 @@
     </edge>
     <edge source="2089428355" target="2182805390" id="0">
       <data key="d9">[421618248, 207993053, 421618233, 871673626, 421618237]</data>
-      <data key="d10">['70', '40']</data>
+      <data key="d10">['40', '70']</data>
       <data key="d15">C</data>
       <data key="d19">yes</data>
       <data key="d12">False</data>
@@ -80389,7 +80389,7 @@
     </edge>
     <edge source="2093326374" target="2093326540" id="0">
       <data key="d9">[1348263192, 237751546, 237751547, 465161747]</data>
-      <data key="d10">['50', '40']</data>
+      <data key="d10">['40', '50']</data>
       <data key="d15">6032</data>
       <data key="d19">yes</data>
       <data key="d12">False</data>
@@ -80665,7 +80665,7 @@
     </edge>
     <edge source="2093326538" target="2111288338" id="0">
       <data key="d9">[463462760, 459344269, 394320750, 394320751, 459344271, 1348263187, 465376249, 230976794, 230976795, 237751551]</data>
-      <data key="d10">['50', '40']</data>
+      <data key="d10">['40', '50']</data>
       <data key="d15">6032</data>
       <data key="d19">yes</data>
       <data key="d12">False</data>
@@ -80859,7 +80859,7 @@
     </edge>
     <edge source="2094267054" target="2095742352" id="0">
       <data key="d9">[438860773, 386347071, 380981358, 386347068, 380981362, 375386237, 438957592, 388432539, 375386236, 388432541, 200422334, 200422335]</data>
-      <data key="d19">['no', 'yes']</data>
+      <data key="d19">['yes', 'no']</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
       <data key="d14">4393.6689205356815</data>
@@ -81209,7 +81209,7 @@
     </edge>
     <edge source="2095742352" target="2094267054" id="0">
       <data key="d9">[438860773, 388432541, 380981358, 375386236, 380981362, 438957592, 200422335, 388432539, 386347068, 375386237, 200422334, 386347071]</data>
-      <data key="d19">['no', 'yes']</data>
+      <data key="d19">['yes', 'no']</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
       <data key="d14">4393.668920535678</data>
@@ -81955,8 +81955,8 @@
     </edge>
     <edge source="2101295553" target="261748035" id="0">
       <data key="d9">[158470016, 24181249, 24165894, 24165902, 24165903, 24165906, 1125072788, 24179092, 24178871, 446633275, 421179331, 24179012, 200143176, 200143180, 200143182, 24179026, 24165859, 24165863, 200143856, 24165874, 24165877, 24179070]</data>
-      <data key="d10">['100', '60']</data>
-      <data key="d15">['6142', '6170', '6164']</data>
+      <data key="d10">['60', '100']</data>
+      <data key="d15">['6142', '6164', '6170']</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
       <data key="d14">4259.720981866234</data>
@@ -82039,7 +82039,7 @@
     </edge>
     <edge source="2101295642" target="581916696" id="0">
       <data key="d9">[45663859, 28199923, 1125740556, 119455510]</data>
-      <data key="d10">['50', '60']</data>
+      <data key="d10">['60', '50']</data>
       <data key="d15">6139</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -82154,7 +82154,7 @@
     </edge>
     <edge source="2101470360" target="310519920" id="0">
       <data key="d9">[288812687, 288812689, 407544853, 1015954105, 1015954106, 28277245, 28277246, 1411252669]</data>
-      <data key="d10">['80', '60']</data>
+      <data key="d10">['60', '80']</data>
       <data key="d15">6152</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -82703,7 +82703,7 @@
     <edge source="2134323783" target="2190311075" id="0">
       <data key="d9">[29384710, 32590497, 32590498, 25946659, 32590499, 32590501, 32590639, 32590640, 32590895, 32590896, 32590903, 32590648, 32590649, 32590904, 32590652, 32590653, 25946685, 72984388, 32590433, 32590436]</data>
       <data key="d16">['viaduct', 'yes']</data>
-      <data key="d10">['80', '60']</data>
+      <data key="d10">['60', '80']</data>
       <data key="d18">Berliner Stadtbahn</data>
       <data key="d15">6024</data>
       <data key="d12">False</data>
@@ -83091,7 +83091,7 @@
     </edge>
     <edge source="2182805390" target="2089428355" id="0">
       <data key="d9">[421618248, 207993053, 421618233, 871673626, 421618237]</data>
-      <data key="d10">['70', '40']</data>
+      <data key="d10">['40', '70']</data>
       <data key="d11">yard</data>
       <data key="d19">yes</data>
       <data key="d12">False</data>
@@ -83114,7 +83114,7 @@
     <edge source="2190311075" target="2134323783" id="0">
       <data key="d9">[29384710, 32590497, 32590498, 32590499, 25946659, 32590501, 32590895, 32590896, 32590640, 32590639, 32590903, 32590648, 32590904, 32590649, 32590652, 32590653, 25946685, 72984388, 32590433, 32590436]</data>
       <data key="d16">['viaduct', 'yes']</data>
-      <data key="d10">['80', '60']</data>
+      <data key="d10">['60', '80']</data>
       <data key="d18">Berliner Stadtbahn</data>
       <data key="d15">6024</data>
       <data key="d12">False</data>
@@ -83364,7 +83364,7 @@
     </edge>
     <edge source="2248212483" target="2248150794" id="0">
       <data key="d9">[32058698, 463431363, 4741158, 41893766]</data>
-      <data key="d10">['100', '70']</data>
+      <data key="d10">['70', '100']</data>
       <data key="d18">Berliner Ringbahn</data>
       <data key="d15">6170</data>
       <data key="d12">False</data>
@@ -83609,7 +83609,7 @@
     </edge>
     <edge source="2256000750" target="1359442556" id="0">
       <data key="d9">[121421955, 28813703, 28813704, 28813865, 28813866, 28813800, 1125949325, 383960622, 1125949327, 375331633, 1125949329, 10307635, 28243476, 1155847958, 1237407031, 375331609]</data>
-      <data key="d10">['70', '80', '50']</data>
+      <data key="d10">['70', '50', '80']</data>
       <data key="d15">6020</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -83989,9 +83989,9 @@
     </edge>
     <edge source="2387626663" target="476036840" id="0">
       <data key="d9">[154456585, 159857295, 1125072787, 223236895, 24165792, 24165796, 24165803, 24165804, 446633274, 421179330, 13252426, 24165843, 24165844, 22768981, 22768982, 23037028, 22769000, 200143854, 24181361, 200143858, 24165750, 24165754]</data>
-      <data key="d10">['100', '60']</data>
+      <data key="d10">['60', '100']</data>
       <data key="d18">['Bln Treptower Park - Treptow', 'Bahnstrecke Berlin–Görlitz']</data>
-      <data key="d15">['6170', '6164', '6142']</data>
+      <data key="d15">['6142', '6164', '6170']</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
       <data key="d14">4469.781024954872</data>
@@ -84282,7 +84282,7 @@
     </edge>
     <edge source="2421901022" target="29807224" id="0">
       <data key="d9">[1459929512, 233865121, 1156008190]</data>
-      <data key="d10">['100', '60']</data>
+      <data key="d10">['60', '100']</data>
       <data key="d15">6060</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -84857,7 +84857,7 @@
     </edge>
     <edge source="2440453115" target="318344319" id="0">
       <data key="d9">[1125519819, 320398637]</data>
-      <data key="d10">['50', '60']</data>
+      <data key="d10">['60', '50']</data>
       <data key="d15">6139</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -86377,7 +86377,7 @@
     </edge>
     <edge source="2781628660" target="21302154" id="0">
       <data key="d9">[4490240, 4490242, 4490243, 4490244, 4490245, 4490246, 4490247, 57728648, 4490248, 4490249, 4490250, 4490252, 4490251, 4490254, 275724841, 273275699, 273275701, 4490170, 4434429, 4490239]</data>
-      <data key="d10">['80', '60']</data>
+      <data key="d10">['60', '80']</data>
       <data key="d15">6024</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -86387,7 +86387,7 @@
     </edge>
     <edge source="2781628662" target="267982089" id="0">
       <data key="d9">[57728640, 438400101, 37427016, 377124041, 37427019, 37427020, 51268880, 273275698, 273275700]</data>
-      <data key="d10">['80', '60']</data>
+      <data key="d10">['60', '80']</data>
       <data key="d15">6024</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -86491,7 +86491,7 @@
     </edge>
     <edge source="2781674113" target="317319674" id="0">
       <data key="d9">[273298720, 1232219206, 1232219207]</data>
-      <data key="d10">['40', '60']</data>
+      <data key="d10">['60', '40']</data>
       <data key="d11">siding</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -86745,7 +86745,7 @@
     </edge>
     <edge source="2793220364" target="2793236561" id="0">
       <data key="d9">[30712995, 41893765, 41893768, 28820205, 28820206, 375361370, 375361372]</data>
-      <data key="d10">['90', '70']</data>
+      <data key="d10">['70', '90']</data>
       <data key="d15">6020</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -86755,7 +86755,7 @@
     </edge>
     <edge source="2793236561" target="2793220364" id="0">
       <data key="d9">[30712995, 41893765, 41893768, 28820205, 28820206, 375361370, 375361372]</data>
-      <data key="d10">['90', '70']</data>
+      <data key="d10">['70', '90']</data>
       <data key="d15">6020</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -86792,7 +86792,7 @@
     </edge>
     <edge source="2793236567" target="316785081" id="0">
       <data key="d9">[41893764, 28820204, 375361371, 427231837, 375348223]</data>
-      <data key="d10">['90', '70']</data>
+      <data key="d10">['70', '90']</data>
       <data key="d15">6020</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -86821,7 +86821,7 @@
     </edge>
     <edge source="2793243094" target="30206146" id="0">
       <data key="d9">[44908545, 44908547, 237947345, 421646140, 4740765, 504503839]</data>
-      <data key="d10">['90', '70']</data>
+      <data key="d10">['70', '90']</data>
       <data key="d15">6020</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -87034,7 +87034,7 @@
     </edge>
     <edge source="2793803273" target="316923049" id="0">
       <data key="d9">[23549861, 179944774, 26188523, 26188524, 26188525, 276509267, 179944764, 479603068, 27434269, 479603067, 479603069, 4818013, 4364671]</data>
-      <data key="d10">['100', '60']</data>
+      <data key="d10">['60', '100']</data>
       <data key="d15">6024</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -87080,7 +87080,7 @@
     </edge>
     <edge source="2793803275" target="273886381" id="0">
       <data key="d9">[26066813, 26187091, 396800404, 25152533, 25152534, 25152535, 25152536, 25152537, 25152538, 25152539, 396800405, 25152541]</data>
-      <data key="d10">['90', '100']</data>
+      <data key="d10">['100', '90']</data>
       <data key="d15">6024</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -88191,7 +88191,7 @@
     </edge>
     <edge source="2808276970" target="4381117557" id="0">
       <data key="d9">[292410949, 23015528, 23015532, 23015534, 38494162, 1463992537, 292410428, 31091166, 31091167]</data>
-      <data key="d10">['120', '160']</data>
+      <data key="d10">['160', '120']</data>
       <data key="d18">Niederschlesisch-Märkische Eisenbahn</data>
       <data key="d15">6153</data>
       <data key="d12">False</data>
@@ -88357,7 +88357,7 @@
     </edge>
     <edge source="2808276990" target="4381117722" id="0">
       <data key="d9">[31091160, 23010840, 292408139, 399483787, 103314097, 4702711, 719295160, 31091161, 4702715, 23010844]</data>
-      <data key="d10">['100', '80', '60']</data>
+      <data key="d10">['60', '100', '80']</data>
       <data key="d15">6004</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -88546,7 +88546,7 @@
     </edge>
     <edge source="2808316066" target="2136201002" id="0">
       <data key="d9">[383989506, 141176099, 1155777188, 1155777189, 292236431]</data>
-      <data key="d10">['100', '70', '80']</data>
+      <data key="d10">['70', '100', '80']</data>
       <data key="d15">6020</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -88824,7 +88824,7 @@
     <edge source="2876978779" target="27276982" id="0">
       <data key="d9">[791166317, 807043959]</data>
       <data key="d11">yard</data>
-      <data key="d19">['no', 'yes']</data>
+      <data key="d19">['yes', 'no']</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
       <data key="d14">387.0920683191128</data>
@@ -88836,7 +88836,7 @@
     <edge source="2876978780" target="565588215" id="0">
       <data key="d9">[791166318, 550145575]</data>
       <data key="d11">yard</data>
-      <data key="d19">['no', 'yes']</data>
+      <data key="d19">['yes', 'no']</data>
       <data key="d12">False</data>
       <data key="d13">[False, True]</data>
       <data key="d14">350.8645704902741</data>
@@ -89070,7 +89070,7 @@
     <edge source="2938625242" target="2938625253" id="0">
       <data key="d9">[5000494, 415375791, 5000787, 5000788, 9933820]</data>
       <data key="d10">140</data>
-      <data key="d18">['Schnellfahrstrecke Oebisfelde–Spandau', 'SFS Oebisfelde–Spandau']</data>
+      <data key="d18">['SFS Oebisfelde–Spandau', 'Schnellfahrstrecke Oebisfelde–Spandau']</data>
       <data key="d15">6185</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -89091,7 +89091,7 @@
     <edge source="2938625242" target="81421144" id="0">
       <data key="d9">[47699490, 290305127]</data>
       <data key="d10">140</data>
-      <data key="d18">['Schnellfahrstrecke Oebisfelde–Spandau', 'SFS Oebisfelde–Spandau']</data>
+      <data key="d18">['SFS Oebisfelde–Spandau', 'Schnellfahrstrecke Oebisfelde–Spandau']</data>
       <data key="d15">6185</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -89102,7 +89102,7 @@
       <data key="d9">[421230288, 8023385, 1378623499]</data>
       <data key="d16">yes</data>
       <data key="d10">140</data>
-      <data key="d18">['Schnellfahrstrecke Oebisfelde–Spandau', 'SFS Oebisfelde–Spandau']</data>
+      <data key="d18">['SFS Oebisfelde–Spandau', 'Schnellfahrstrecke Oebisfelde–Spandau']</data>
       <data key="d15">6185</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -89175,7 +89175,7 @@
       <data key="d9">[421230288, 8023385, 1378623499]</data>
       <data key="d16">yes</data>
       <data key="d10">140</data>
-      <data key="d18">['Schnellfahrstrecke Oebisfelde–Spandau', 'SFS Oebisfelde–Spandau']</data>
+      <data key="d18">['SFS Oebisfelde–Spandau', 'Schnellfahrstrecke Oebisfelde–Spandau']</data>
       <data key="d15">6185</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -89264,7 +89264,7 @@
     <edge source="2938625253" target="2938625242" id="0">
       <data key="d9">[5000494, 415375791, 5000787, 5000788, 9933820]</data>
       <data key="d10">140</data>
-      <data key="d18">['Schnellfahrstrecke Oebisfelde–Spandau', 'SFS Oebisfelde–Spandau']</data>
+      <data key="d18">['SFS Oebisfelde–Spandau', 'Schnellfahrstrecke Oebisfelde–Spandau']</data>
       <data key="d15">6185</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -90122,7 +90122,7 @@
     </edge>
     <edge source="3111444183" target="5959233695" id="1">
       <data key="d9">[635807491, 222663270, 1125072789, 1125072790, 224069948]</data>
-      <data key="d10">['25', '60', '40']</data>
+      <data key="d10">['25', '40', '60']</data>
       <data key="d18">Ostbahn</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -90949,7 +90949,7 @@
       <data key="d13">[False, True]</data>
       <data key="d14">2460.3704136459282</data>
       <data key="d16">yes</data>
-      <data key="d10">['10', '40']</data>
+      <data key="d10">['40', '10']</data>
       <data key="d17">LINESTRING (13.3795373 52.5725482, 13.3783691 52.5732091, 13.3770005 52.5740398, 13.3769145 52.5740933, 13.3758448 52.5747604, 13.3755681 52.574931, 13.3748939 52.5753339, 13.3744258 52.575563, 13.3739181 52.5757505, 13.3733927 52.5759148, 13.3731871 52.5759712, 13.3728755 52.5760479, 13.3724339 52.5761287, 13.3720175 52.5761851, 13.3715608 52.5762317, 13.3710851 52.5762557, 13.3701206 52.5762868, 13.3686761 52.5763379, 13.3678979 52.5763606, 13.3643963 52.5764978, 13.3637571 52.5765259, 13.3637356 52.576527, 13.3630902 52.5765692, 13.362085 52.5766589, 13.3610152 52.5767658, 13.3606384 52.5768063, 13.3557441 52.5773642, 13.3553549 52.5774097, 13.3526439 52.5777223, 13.3511983 52.5778881, 13.349854 52.5780438, 13.3496366 52.5780683, 13.3494206 52.5780929, 13.3493083 52.5781046, 13.349185 52.578117, 13.3490934 52.5781256, 13.3488069 52.5781503, 13.3485291 52.5781707, 13.3481818 52.578191, 13.3479621 52.5782023, 13.3477413 52.5782116, 13.3472437 52.5782297, 13.3469055 52.578243, 13.3465618 52.5782548, 13.3456391 52.5782884)</data>
     </edge>
     <edge source="3228632162" target="13393449819" id="0">
@@ -90960,7 +90960,7 @@
       <data key="d13">True</data>
       <data key="d14">553.5757399811997</data>
       <data key="d16">yes</data>
-      <data key="d10">['10', '40']</data>
+      <data key="d10">['40', '10']</data>
       <data key="d17">LINESTRING (13.3795373 52.5725482, 13.3795902 52.5725183, 13.3799222 52.5723301, 13.3802518 52.5721469, 13.3802823 52.5721309, 13.3814519 52.5714799, 13.3855744 52.5691835)</data>
     </edge>
     <edge source="3228632162" target="3228632167" id="0">
@@ -93028,7 +93028,7 @@
     </edge>
     <edge source="3886770402" target="26124404" id="0">
       <data key="d9">[26435781, 26435558, 719349420, 29359348, 1266672532, 29359349]</data>
-      <data key="d10">['80', '60']</data>
+      <data key="d10">['60', '80']</data>
       <data key="d18">Berliner Ringbahn</data>
       <data key="d15">6170</data>
       <data key="d12">False</data>
@@ -93235,7 +93235,7 @@
     </edge>
     <edge source="3951294982" target="557840307" id="0">
       <data key="d9">[438957593, 464757330, 464757339, 391866692]</data>
-      <data key="d10">['70', '60']</data>
+      <data key="d10">['60', '70']</data>
       <data key="d19">yes</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -93254,7 +93254,7 @@
     </edge>
     <edge source="3954229805" target="5201115256" id="0">
       <data key="d9">[392159878, 724167912, 1457647980, 864173676, 1457647982]</data>
-      <data key="d10">['120', '100']</data>
+      <data key="d10">['100', '120']</data>
       <data key="d15">6142</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -93279,7 +93279,7 @@
     </edge>
     <edge source="3954229809" target="5201115255" id="0">
       <data key="d9">[392159908, 724167913, 1457647979, 1457647981, 864165974]</data>
-      <data key="d10">['120', '100']</data>
+      <data key="d10">['100', '120']</data>
       <data key="d15">6142</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -94272,7 +94272,7 @@
     </edge>
     <edge source="4174670471" target="557838636" id="0">
       <data key="d9">[464757323, 172093540, 438957596, 464757334]</data>
-      <data key="d10">['70', '60']</data>
+      <data key="d10">['60', '70']</data>
       <data key="d19">yes</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -95182,7 +95182,7 @@
     </edge>
     <edge source="4337566683" target="6165399062" id="0">
       <data key="d9">[170869849, 390211466, 391391726, 375892503]</data>
-      <data key="d19">['no', 'yes']</data>
+      <data key="d19">['yes', 'no']</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
       <data key="d14">2050.653206033454</data>
@@ -95215,7 +95215,7 @@
     </edge>
     <edge source="4337566684" target="6165399073" id="0">
       <data key="d9">[376033745, 376033747, 390211467, 375887589]</data>
-      <data key="d19">['no', 'yes']</data>
+      <data key="d19">['yes', 'no']</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
       <data key="d14">2142.9127365005197</data>
@@ -98403,7 +98403,7 @@
     </edge>
     <edge source="4381117557" target="2808276970" id="0">
       <data key="d9">[292410949, 23015528, 23015532, 23015534, 38494162, 1463992537, 292410428, 31091166, 31091167]</data>
-      <data key="d10">['120', '160']</data>
+      <data key="d10">['160', '120']</data>
       <data key="d15">6153</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -98450,7 +98450,7 @@
     </edge>
     <edge source="4381117720" target="319241591" id="0">
       <data key="d9">[174513546, 1316815340, 29028653, 29028654, 103314095, 29028655, 29028657, 399483788, 719295159, 31091162, 31091163]</data>
-      <data key="d10">['100', '80', '60']</data>
+      <data key="d10">['60', '100', '80']</data>
       <data key="d15">6004</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -98485,7 +98485,7 @@
     </edge>
     <edge source="4381117722" target="2808276990" id="0">
       <data key="d9">[31091160, 292408139, 399483787, 719295160, 103314097, 4702711, 23010840, 31091161, 4702715, 23010844]</data>
-      <data key="d10">['100', '80', '60']</data>
+      <data key="d10">['60', '100', '80']</data>
       <data key="d15">6004</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -99017,7 +99017,7 @@
     </edge>
     <edge source="4438769724" target="30206713" id="0">
       <data key="d9">[29359224, 1266672538, 35200839]</data>
-      <data key="d10">['80', '60']</data>
+      <data key="d10">['60', '80']</data>
       <data key="d15">6141</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -99613,8 +99613,8 @@
     </edge>
     <edge source="4604134878" target="565588217" id="0">
       <data key="d9">[110389122, 387329044, 394563357, 528139677, 44525342, 199544357, 374930733, 199544368, 110389118, 110553274, 110553276, 32013757, 392799679, 110553281, 179233237, 179233239, 179233241, 179233243, 434362588, 530212718, 110389115, 598541436, 598541437, 32013694]</data>
-      <data key="d18">['U3', 'U-Onkel-Toms-Hütte - U3']</data>
-      <data key="d19">['no', 'yes']</data>
+      <data key="d18">['U-Onkel-Toms-Hütte - U3', 'U3']</data>
+      <data key="d19">['yes', 'no']</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
       <data key="d14">10625.443253004216</data>
@@ -99674,7 +99674,7 @@
       <data key="d9">[110389120, 387329043, 199544340, 387329045, 198741530, 199786531, 374930731, 374930732, 4402992, 110553272, 110553273, 392799678, 392799680, 110553280, 48591696, 179233238, 179233240, 179233242, 179233244, 28764009, 28764010, 391579250, 391579251, 110389116, 110389117, 110389119]</data>
       <data key="d18">U3</data>
       <data key="d15">U3</data>
-      <data key="d19">['no', 'yes']</data>
+      <data key="d19">['yes', 'no']</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
       <data key="d14">10701.2355329008</data>
@@ -99857,7 +99857,7 @@
     </edge>
     <edge source="4746086767" target="30207276" id="0">
       <data key="d9">[4782400, 26416609, 26416613, 251840358, 717853029, 44418472, 26416587, 26416591, 25500722, 25500724, 29119828, 29119829, 4741015, 252505239, 44418462, 1468583551]</data>
-      <data key="d10">['160', '80', '110']</data>
+      <data key="d10">['160', '110', '80']</data>
       <data key="d18">Stettiner Bahn</data>
       <data key="d15">6081</data>
       <data key="d12">False</data>
@@ -99897,7 +99897,7 @@
     </edge>
     <edge source="4746086770" target="30207258" id="0">
       <data key="d9">[44418464, 503440162, 251840354, 172190980, 717853030, 241166776, 4740914, 172256661, 172256662, 252505270, 252505240, 241166778, 241166779, 241166780, 44418461]</data>
-      <data key="d10">['90', '160', '80']</data>
+      <data key="d10">['80', '160', '90']</data>
       <data key="d18">Stettiner Bahn</data>
       <data key="d15">6081</data>
       <data key="d12">False</data>
@@ -100075,7 +100075,7 @@
     </edge>
     <edge source="4882036416" target="286762541" id="0">
       <data key="d9">[1158221699, 1158221700, 25152526, 25152527, 25152528, 25152529, 25152530, 25152531, 25152532, 1424338838, 25152540, 868033453, 26187950, 26187957, 26187958, 26187093, 26187095, 1158221690, 1158221691]</data>
-      <data key="d10">['90', '120']</data>
+      <data key="d10">['120', '90']</data>
       <data key="d15">6118</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -100101,7 +100101,7 @@
     </edge>
     <edge source="4882036419" target="286762540" id="0">
       <data key="d9">[13237248, 4364674, 1158221701, 23549862, 1158221692, 4818011, 13237262, 868033454, 22874353, 38491922, 22874355, 26187955, 1424338839, 4480603, 4818012, 1158221693, 23549854, 4469435]</data>
-      <data key="d10">['90', '120']</data>
+      <data key="d10">['120', '90']</data>
       <data key="d15">6118</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -100405,7 +100405,7 @@
     </edge>
     <edge source="5061840079" target="7989547234" id="0">
       <data key="d9">[1132283689, 218255172, 320220973, 42126342]</data>
-      <data key="d10">['120', '100']</data>
+      <data key="d10">['100', '120']</data>
       <data key="d15">6153</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -100423,7 +100423,7 @@
     </edge>
     <edge source="5061840079" target="581987662" id="0">
       <data key="d9">[1132283688, 1411252674]</data>
-      <data key="d10">['120', '100']</data>
+      <data key="d10">['100', '120']</data>
       <data key="d15">6153</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -100470,7 +100470,7 @@
     </edge>
     <edge source="5077032981" target="276575636" id="0">
       <data key="d9">[292459937, 719295153]</data>
-      <data key="d10">['90', '80']</data>
+      <data key="d10">['80', '90']</data>
       <data key="d15">6004</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -100505,7 +100505,7 @@
     </edge>
     <edge source="5077032982" target="1883458369" id="0">
       <data key="d9">[719295152, 292455708]</data>
-      <data key="d10">['90', '80']</data>
+      <data key="d10">['80', '90']</data>
       <data key="d15">6004</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -100578,7 +100578,7 @@
     </edge>
     <edge source="5104706599" target="13296949447" id="0">
       <data key="d9">[392577192, 463418761, 392577194, 274269224]</data>
-      <data key="d18">['Linie G', 'U9']</data>
+      <data key="d18">['U9', 'Linie G']</data>
       <data key="d19">yes</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -100612,7 +100612,7 @@
     </edge>
     <edge source="5104706600" target="13296949444" id="0">
       <data key="d9">[392577193, 274269226, 438860778, 380967342]</data>
-      <data key="d18">['Linie G', 'U9']</data>
+      <data key="d18">['U9', 'Linie G']</data>
       <data key="d19">yes</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -101689,7 +101689,7 @@
     </edge>
     <edge source="5959233695" target="84261634" id="0">
       <data key="d9">[137710052, 30691590, 31027017, 1125519824, 30691606, 517034395, 28953372]</data>
-      <data key="d10">['40', '60']</data>
+      <data key="d10">['60', '40']</data>
       <data key="d18">Ostbahn</data>
       <data key="d15">6078</data>
       <data key="d12">False</data>
@@ -101700,7 +101700,7 @@
     </edge>
     <edge source="5959233695" target="3111444183" id="0">
       <data key="d9">[635807491, 222663270, 1125072789, 1125072790, 224069948]</data>
-      <data key="d10">['40', '25', '60']</data>
+      <data key="d10">['25', '60', '40']</data>
       <data key="d18">Ostbahn</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -101727,7 +101727,7 @@
     </edge>
     <edge source="6165399062" target="4337566683" id="0">
       <data key="d9">[170869849, 390211466, 391391726, 375892503]</data>
-      <data key="d19">['no', 'yes']</data>
+      <data key="d19">['yes', 'no']</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
       <data key="d14">2050.6532060334544</data>
@@ -101775,7 +101775,7 @@
     </edge>
     <edge source="6165399073" target="4337566684" id="0">
       <data key="d9">[376033745, 390211467, 375887589, 376033747]</data>
-      <data key="d19">['no', 'yes']</data>
+      <data key="d19">['yes', 'no']</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
       <data key="d14">2142.912736500519</data>
@@ -101915,7 +101915,7 @@
     <edge source="6222833126" target="1359442575" id="0">
       <data key="d9">[121421955, 711114629, 711114630, 127025009, 127025012, 154456628]</data>
       <data key="d16">yes</data>
-      <data key="d10">['80', '60']</data>
+      <data key="d10">['60', '80']</data>
       <data key="d15">6020</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -101992,7 +101992,7 @@
     <edge source="6439731007" target="27412235" id="0">
       <data key="d9">[4471817, 23809673, 32590493, 32590494, 25086879, 32590496, 32590495, 32590893, 32590638, 32590894, 32590645, 32590902, 32590647, 32590901, 25946681, 25946682, 72984377, 32590437, 32590438]</data>
       <data key="d16">['viaduct', 'yes']</data>
-      <data key="d10">['80', '60']</data>
+      <data key="d10">['60', '80']</data>
       <data key="d18">Berliner Stadtbahn</data>
       <data key="d15">6024</data>
       <data key="d12">False</data>
@@ -102654,7 +102654,7 @@
     </edge>
     <edge source="6927669298" target="449203701" id="0">
       <data key="d9">[628028610, 142142492, 460364209, 255562643, 237729331, 237729337, 26476860, 26476861]</data>
-      <data key="d10">['120', '100']</data>
+      <data key="d10">['100', '120']</data>
       <data key="d15">6171</data>
       <data key="d19">yes</data>
       <data key="d12">False</data>
@@ -102684,7 +102684,7 @@
     </edge>
     <edge source="6927669299" target="30353043" id="0">
       <data key="d9">[12702400, 26476808, 237729330, 460364213, 237729336, 142142493, 26491103]</data>
-      <data key="d10">['120', '100']</data>
+      <data key="d10">['100', '120']</data>
       <data key="d15">6171</data>
       <data key="d19">yes</data>
       <data key="d12">False</data>
@@ -103422,7 +103422,7 @@
     </edge>
     <edge source="7985862536" target="581997170" id="0">
       <data key="d9">[1265865290, 320220940]</data>
-      <data key="d11">['yard', 'siding']</data>
+      <data key="d11">['siding', 'yard']</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
       <data key="d14">563.2182020694404</data>
@@ -103430,7 +103430,7 @@
     </edge>
     <edge source="7985862536" target="581997037" id="0">
       <data key="d9">[1265865291, 856831173]</data>
-      <data key="d11">['yard', 'siding']</data>
+      <data key="d11">['siding', 'yard']</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
       <data key="d14">522.5159461124209</data>
@@ -103453,7 +103453,7 @@
     </edge>
     <edge source="7985862541" target="581997174" id="0">
       <data key="d9">[320220956, 1265865287]</data>
-      <data key="d11">['yard', 'siding']</data>
+      <data key="d11">['siding', 'yard']</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
       <data key="d14">416.1760590726469</data>
@@ -103527,7 +103527,7 @@
     </edge>
     <edge source="7985865242" target="7988786802" id="0">
       <data key="d9">[1265865296, 319932889]</data>
-      <data key="d11">['yard', 'siding']</data>
+      <data key="d11">['siding', 'yard']</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
       <data key="d14">494.9573598965594</data>
@@ -103754,7 +103754,7 @@
     </edge>
     <edge source="7988810603" target="4439191860" id="0">
       <data key="d9">[719295168, 42126338, 28226879, 385258470, 385258472, 385250925, 606118222, 446682253, 446682255, 854659039, 438360604, 719295165, 28226878, 719295167]</data>
-      <data key="d10">['90', '100', '80']</data>
+      <data key="d10">['80', '100', '90']</data>
       <data key="d15">6004</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -103781,7 +103781,7 @@
     </edge>
     <edge source="7988810604" target="4439191861" id="0">
       <data key="d9">[407544832, 385258471, 42126312, 385258473, 351638333, 520764267, 174528749, 174528750, 606118221, 174528752, 446682254, 854659038, 4689022, 719295164, 4689021, 719295166]</data>
-      <data key="d10">['90', '100', '80']</data>
+      <data key="d10">['80', '100', '90']</data>
       <data key="d15">6004</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -104241,7 +104241,7 @@
     </edge>
     <edge source="9133483011" target="1335777897" id="0">
       <data key="d9">[1332742576, 15792514, 367204240, 15792590]</data>
-      <data key="d10">['120', '160']</data>
+      <data key="d10">['160', '120']</data>
       <data key="d18">Stettiner Bahn</data>
       <data key="d15">6081</data>
       <data key="d12">False</data>
@@ -104259,7 +104259,7 @@
     </edge>
     <edge source="9133483012" target="1335777891" id="0">
       <data key="d9">[118823816, 118823817, 1332742577, 118823819]</data>
-      <data key="d10">['120', '160']</data>
+      <data key="d10">['160', '120']</data>
       <data key="d18">Stettiner Bahn</data>
       <data key="d15">6081</data>
       <data key="d12">False</data>
@@ -104895,7 +104895,7 @@
     </edge>
     <edge source="9845802185" target="27429818" id="0">
       <data key="d9">[10360548, 10360549, 27681617, 136703830, 494829336]</data>
-      <data key="d10">['120', '140']</data>
+      <data key="d10">['140', '120']</data>
       <data key="d15">6134</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -105388,7 +105388,7 @@
     </edge>
     <edge source="10709897015" target="322633885" id="0">
       <data key="d9">[238192692, 238192690, 494022020, 494022014]</data>
-      <data key="d10">['40', '60']</data>
+      <data key="d10">['60', '40']</data>
       <data key="d18">Anhalter Vorortbahn</data>
       <data key="d15">6034</data>
       <data key="d19">yes</data>
@@ -105399,8 +105399,8 @@
     </edge>
     <edge source="10709897015" target="493714942" id="0">
       <data key="d9">[26477120, 26491105, 136703812, 238452719, 1348263189, 503475928, 494022014, 26477119]</data>
-      <data key="d10">['100', '60']</data>
-      <data key="d18">['Yorckbrücke 8', 'Anhalter Vorortbahn']</data>
+      <data key="d10">['60', '100']</data>
+      <data key="d18">['Anhalter Vorortbahn', 'Yorckbrücke 8']</data>
       <data key="d15">['6035', '6034']</data>
       <data key="d19">yes</data>
       <data key="d12">False</data>
@@ -105419,7 +105419,7 @@
     </edge>
     <edge source="10709897016" target="322633810" id="0">
       <data key="d9">[494022024, 494022018]</data>
-      <data key="d10">['40', '60']</data>
+      <data key="d10">['60', '40']</data>
       <data key="d15">6032</data>
       <data key="d19">yes</data>
       <data key="d12">False</data>
@@ -105429,7 +105429,7 @@
     </edge>
     <edge source="10709897016" target="558842783" id="0">
       <data key="d9">[494022018, 13860451, 4756357, 273174491, 4756358, 4756360, 1236950983, 1295392728, 273174488, 4525882, 1295392731]</data>
-      <data key="d10">['50', '80', '60']</data>
+      <data key="d10">['60', '50', '80']</data>
       <data key="d15">6032</data>
       <data key="d19">yes</data>
       <data key="d12">False</data>
@@ -105586,7 +105586,7 @@
     </edge>
     <edge source="10728204098" target="316778070" id="0">
       <data key="d9">[24179457, 24179461, 24258840, 24258844, 28812960, 28812961, 8096553, 13252396, 4703298, 1238672195, 4703301, 331607241, 331607244, 344073165, 24163534, 344073168, 24163536, 1201559403, 28812921]</data>
-      <data key="d10">['80', '60']</data>
+      <data key="d10">['60', '80']</data>
       <data key="d15">6021</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -105615,7 +105615,7 @@
     </edge>
     <edge source="10728204101" target="262322771" id="0">
       <data key="d9">[369204332, 369204334, 344073167, 24227575, 24227581]</data>
-      <data key="d10">['80', '60']</data>
+      <data key="d10">['60', '80']</data>
       <data key="d15">6021</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -105783,7 +105783,7 @@
     </edge>
     <edge source="10764094463" target="414029467" id="0">
       <data key="d9">[27414915, 27414916, 27414910]</data>
-      <data key="d10">['100', '60']</data>
+      <data key="d10">['60', '100']</data>
       <data key="d11">yard</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -105794,7 +105794,7 @@
     <edge source="10764094463" target="10764094502" id="0">
       <data key="d9">[1157464328, 1157464327]</data>
       <data key="d10">100</data>
-      <data key="d11">['yard', 'siding']</data>
+      <data key="d11">['siding', 'yard']</data>
       <data key="d12">False</data>
       <data key="d13">[False, True]</data>
       <data key="d14">56.90979755623955</data>
@@ -106025,7 +106025,7 @@
     </edge>
     <edge source="10823971568" target="34663485" id="0">
       <data key="d9">[5087072, 5087073, 718121901, 1455792831, 5087058, 5087059, 368769077, 368769080, 4753113, 4752796, 5087071]</data>
-      <data key="d10">['90', '100']</data>
+      <data key="d10">['100', '90']</data>
       <data key="d15">6035</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -106042,7 +106042,7 @@
     </edge>
     <edge source="10823971569" target="34663488" id="0">
       <data key="d9">[5087074, 5087075, 718121903, 5087060, 5087061, 368769079, 368769083, 5087068, 5087069, 1455792830, 255994301]</data>
-      <data key="d10">['90', '100']</data>
+      <data key="d10">['100', '90']</data>
       <data key="d15">6035</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -106607,7 +106607,7 @@
     </edge>
     <edge source="11346126914" target="30353488" id="0">
       <data key="d9">[1349505987, 4756368, 4756369, 12684823, 1441822779, 1473271710]</data>
-      <data key="d10">['160', '140']</data>
+      <data key="d10">['140', '160']</data>
       <data key="d18">Dresdner Bahn</data>
       <data key="d15">6135</data>
       <data key="d12">False</data>
@@ -106972,8 +106972,8 @@
     </edge>
     <edge source="11628657104" target="1947340054" id="0">
       <data key="d9">[1252158663, 777688873, 24031005, 23087691, 23085835, 503475927, 23087694, 4603315, 230977079, 291342456, 464700829, 24031007]</data>
-      <data key="d10">['50', '80', '60']</data>
-      <data key="d15">['6002', '6032']</data>
+      <data key="d10">['60', '50', '80']</data>
+      <data key="d15">['6032', '6002']</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
       <data key="d14">2131.4032862750873</data>
@@ -106983,7 +106983,7 @@
     </edge>
     <edge source="11628657104" target="567183153" id="0">
       <data key="d9">[44908549, 44908551, 116355015, 237947348, 291342456, 421646137, 4740764]</data>
-      <data key="d10">['80', '60']</data>
+      <data key="d10">['60', '80']</data>
       <data key="d15">6002</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -107187,7 +107187,7 @@
     </edge>
     <edge source="11881899153" target="2101860880" id="0">
       <data key="d9">[1240504003, 1201360709, 1201360710, 1201360711, 802024936, 1329125288, 403102506, 403102507, 1329125289, 200188494, 29119824, 29119825, 25500726, 25500727]</data>
-      <data key="d10">['90', '100', '80']</data>
+      <data key="d10">['80', '100', '90']</data>
       <data key="d15">6002</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -107213,7 +107213,7 @@
     </edge>
     <edge source="11881899154" target="2101860874" id="0">
       <data key="d9">[97390914, 1240504002, 1201360708, 97390918, 802024935, 1201360712, 403102505, 1329125290, 1201360713, 29119826, 29119827, 29120372, 29120373, 24045303]</data>
-      <data key="d10">['90', '100', '80']</data>
+      <data key="d10">['80', '100', '90']</data>
       <data key="d15">6002</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -107774,7 +107774,7 @@
       <data key="d12">False</data>
       <data key="d13">False</data>
       <data key="d14">2483.1504327938173</data>
-      <data key="d18">['Linie G', 'U9']</data>
+      <data key="d18">['U9', 'Linie G']</data>
       <data key="d17">LINESTRING (13.3334197 52.5073409, 13.3338549 52.507923, 13.334326 52.5087674, 13.3346866 52.5092091, 13.335085 52.509644, 13.3353759 52.5099127, 13.3357099 52.5101778, 13.3363135 52.510599, 13.3372508 52.5111321, 13.3381803 52.5116257, 13.3389634 52.5120552, 13.3396742 52.512486, 13.3400349 52.5127449, 13.3404414 52.5130721, 13.3407444 52.5133566, 13.3410556 52.5136882, 13.3414136 52.5141371, 13.3415779 52.5143719, 13.3417235 52.5146048, 13.3419299 52.5149902, 13.3421284 52.5154845, 13.3422236 52.5158344, 13.3422948 52.5162117, 13.3423242 52.5164686, 13.342327 52.5167152, 13.342323 52.5168935, 13.3423159 52.517014, 13.3422615 52.5173734, 13.3421226 52.5180852, 13.3420621 52.518377, 13.3420091 52.5186099, 13.3419168 52.5189072, 13.3418776 52.5190331, 13.3415049 52.5208193, 13.3412529 52.5221181, 13.3411561 52.5227395, 13.3410459 52.5234683, 13.3409798 52.5238743, 13.3409688 52.5241852, 13.3410052 52.5245515, 13.3410868 52.5248782, 13.3412987 52.5255829, 13.3413702 52.5260528, 13.3414103 52.5264047, 13.3414029 52.5265965, 13.3414223 52.5268921, 13.3413787 52.527392, 13.3413801 52.5278293)</data>
     </edge>
     <edge source="13296949444" target="11813466144" id="0">
@@ -107839,7 +107839,7 @@
       <data key="d12">False</data>
       <data key="d13">True</data>
       <data key="d14">2432.875661005305</data>
-      <data key="d18">['Linie G', 'U9']</data>
+      <data key="d18">['U9', 'Linie G']</data>
       <data key="d17">LINESTRING (13.3332203 52.5073994, 13.3336406 52.5079781, 13.3341589 52.5087972, 13.3345324 52.509267, 13.3348313 52.5095907, 13.334926 52.5096932, 13.3352445 52.5099845, 13.335596 52.5102617, 13.3362535 52.5106519, 13.3368299 52.5109654, 13.3371972 52.5111648, 13.3381366 52.5116666, 13.3389124 52.5120862, 13.3396128 52.5125118, 13.339986 52.5127788, 13.3403788 52.5131006, 13.3406766 52.5133778, 13.3409951 52.5137158, 13.3413465 52.514155, 13.3415108 52.5143878, 13.3416567 52.5146216, 13.3418575 52.5150081, 13.342058 52.5154949, 13.3421512 52.5158414, 13.3422132 52.5162122, 13.3422223 52.5164755, 13.3422057 52.5167332, 13.3421603 52.5170083, 13.3421382 52.5171183, 13.342132 52.5171473, 13.3421279 52.5171669, 13.3421059 52.5172709, 13.3420871 52.5173599, 13.342086 52.5173653, 13.342012 52.5177461, 13.341886 52.5183994, 13.3418486 52.518606, 13.3418065 52.5190258, 13.3414499 52.5208005, 13.3411898 52.522111, 13.3410984 52.522737, 13.3409832 52.5234557, 13.3409215 52.5238687, 13.3409081 52.5241787, 13.3409376 52.5245573, 13.3409966 52.5248935, 13.3411017 52.5256042, 13.3411392 52.5257759, 13.3411854 52.5259884, 13.3412617 52.5264246, 13.3412819 52.5265939, 13.3412859 52.5268908, 13.341307 52.5271941, 13.341321 52.5273953)</data>
     </edge>
     <edge source="13296949448" target="13296949451" id="0">
@@ -108096,7 +108096,7 @@
     </edge>
     <edge source="13393449819" target="3228632162" id="0">
       <data key="d9">[144161852, 7954583, 1030488026, 23084476, 23084477]</data>
-      <data key="d10">['10', '40']</data>
+      <data key="d10">['40', '10']</data>
       <data key="d15">['6182', '6088']</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -108138,7 +108138,7 @@
       <data key="d14">539.6317067916196</data>
       <data key="d17">LINESTRING (13.190166 52.5669963, 13.190024 52.566974, 13.1897555 52.5669319, 13.1824357 52.5657826)</data>
     </edge>
-    <data key="d0">2026-04-14 23:33:20</data>
+    <data key="d0">2026-05-27 18:02:43</data>
     <data key="d1">OSMnx 2.1.0</data>
     <data key="d2">epsg:4326</data>
     <data key="d3">True</data>
