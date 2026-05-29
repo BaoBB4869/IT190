@@ -21,7 +21,7 @@ def haversine_distance(lat1, lon1, lat2, lon2):
     return R * c
 
 
-def get_all_candidate_nodes(G, station_name, radius_meters=300):
+def get_all_candidate_nodes(G, station_name, radius_meters=1000):
     """Tìm tất cả các nút thuộc nhà ga"""
     candidates = []
     for node_id, data in G.nodes(data=True):
