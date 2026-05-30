@@ -49,10 +49,11 @@ def get_circle_polygon_points(lat, lng, radius_meters, num_points=36):
 class BerlinMapUI(ctk.CTk):
     G = ox.load_graphml("berlin_rail.graphml")
 
-    def __init__(self, role="user"):
+    def __init__(self, role="user", on_logout=None):
         super().__init__()
         self.role = role                          # "admin" hoặc "user"
         self.is_admin = (role == "admin")
+        self.on_logout = on_logout
 
         self.title("Berlin Rail Pathfinder" + (" — Admin" if self.is_admin else " — User"))
         self.geometry("1300x850")
@@ -171,6 +172,13 @@ class BerlinMapUI(ctk.CTk):
             hover_color=C["border"],
             command=self._on_clear)
         self.btn_clear.pack(fill="x", padx=10, pady=5)
+
+        self.btn_logout = ctk.CTkButton(
+            sb, text="🚪  Đăng xuất",
+            height=36, corner_radius=8,
+            fg_color="#EF4444", hover_color="#DC2626",
+            command=self._on_logout)
+        self.btn_logout.pack(fill="x", padx=10, pady=(0, 15))
 
         # Kết quả
         self.result_box = ctk.CTkFrame(sb, fg_color=C["bg"], corner_radius=8, height=140)
@@ -292,12 +300,17 @@ class BerlinMapUI(ctk.CTk):
             text="Chọn thông số và\nbấm Tìm Tuyến Đường...",
             text_color=C["subtext"])
 
+    def _on_logout(self):
+        self.destroy()
+        if self.on_logout:
+            self.on_logout()
+
 
 # ── ENTRY POINT ───────────────────────────────────────────
 from login import LoginWindow
 
 def start_app(role):
-    app = BerlinMapUI(role=role)
+    app = BerlinMapUI(role=role, on_logout=lambda: LoginWindow(start_app))
     app.mainloop()
 
 if __name__ == "__main__":
