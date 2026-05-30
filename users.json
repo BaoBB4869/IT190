@@ -1,0 +1,14 @@
+{
+    "admin": {
+        "password": "123",
+        "role": "admin"
+    },
+    "bao": {
+        "password": "123",
+        "role": "user"
+    },
+    "baobb": {
+        "password": "123",
+        "role": "user"
+    }
+}
